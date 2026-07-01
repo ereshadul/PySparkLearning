@@ -1,0 +1,1200 @@
+{"review_id": "R00001", "product_id": "P0060", "customer_id": "C0006", "rating": null, "comment": "Would buy again", "review_ts": "2023-01-31T00:00:00"}
+{"review_id": "R00002", "product_id": "P0019", "customer_id": "C0098", "rating": null, "comment": "", "review_ts": "2024-07-07T00:00:00"}
+{"review_id": "R00003", "product_id": "P0126", "customer_id": "C0174", "rating": 1, "comment": "", "review_ts": "2023-07-14T00:00:00"}
+{"review_id": "R00004", "product_id": "P0146", "customer_id": "C0528", "rating": null, "comment": "Not as expected", "review_ts": "2023-01-18T00:00:00"}
+{"review_id": "R00005", "product_id": "P0043", "customer_id": "C0036", "rating": null, "comment": "Great!", "review_ts": "2023-12-29T00:00:00"}
+{"review_id": "R00006", "product_id": "P0110", "customer_id": "C0334", "rating": 4, "comment": "Not as expected", "review_ts": "2024-11-12T00:00:00"}
+{"review_id": "R00007", "product_id": "P0052", "customer_id": "C0521", "rating": 4, "comment": "", "review_ts": "2023-05-07T00:00:00"}
+{"review_id": "R00008", "product_id": "P0105", "customer_id": "C0048", "rating": 1, "comment": "Would buy again", "review_ts": "2024-03-15T00:00:00"}
+{"review_id": "R00009", "product_id": "P0018", "customer_id": "C0565", "rating": 1, "comment": "Not as expected", "review_ts": "2024-03-17T00:00:00"}
+{"review_id": "R00010", "product_id": "P0070", "customer_id": "C0059", "rating": null, "comment": "Broken on arrival", "review_ts": "2024-08-29T00:00:00"}
+{"review_id": "R00011", "product_id": "P0086", "customer_id": "C0525", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-03-19T00:00:00"}
+{"review_id": "R00012", "product_id": "P0132", "customer_id": "C0304", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-10-21T00:00:00"}
+{"review_id": "R00013", "product_id": "P0127", "customer_id": "C0472", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-02-06T00:00:00"}
+{"review_id": "R00014", "product_id": "P0061", "customer_id": "C0121", "rating": 5, "comment": "Would buy again", "review_ts": "2023-11-06T00:00:00"}
+{"review_id": "R00015", "product_id": "P0118", "customer_id": "C0288", "rating": 1, "comment": "Broken on arrival", "review_ts": "2023-08-18T00:00:00"}
+{"review_id": "R00016", "product_id": "P0047", "customer_id": "C0163", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-12-30T00:00:00"}
+{"review_id": "R00017", "product_id": "P0105", "customer_id": "C0220", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-02-22T00:00:00"}
+{"review_id": "R00018", "product_id": "P0002", "customer_id": "C0183", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-05-31T00:00:00"}
+{"review_id": "R00019", "product_id": "P0024", "customer_id": "C0482", "rating": null, "comment": "Would buy again", "review_ts": "2024-11-04T00:00:00"}
+{"review_id": "R00020", "product_id": "P0035", "customer_id": "C0106", "rating": 1, "comment": "Would buy again", "review_ts": "2023-06-28T00:00:00"}
+{"review_id": "R00021", "product_id": "P0137", "customer_id": "C0557", "rating": 1, "comment": "Not as expected", "review_ts": "2023-01-29T00:00:00"}
+{"review_id": "R00022", "product_id": "P0083", "customer_id": "C0074", "rating": 1, "comment": "Not as expected", "review_ts": "2024-04-09T00:00:00"}
+{"review_id": "R00023", "product_id": "P0022", "customer_id": "C0594", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-10-18T00:00:00"}
+{"review_id": "R00024", "product_id": "P0134", "customer_id": "C0088", "rating": 3, "comment": "Broken on arrival", "review_ts": "2024-10-02T00:00:00"}
+{"review_id": "R00025", "product_id": "P0148", "customer_id": "C0407", "rating": null, "comment": "Great!", "review_ts": "2023-12-07T00:00:00"}
+{"review_id": "R00026", "product_id": "P0097", "customer_id": "C0139", "rating": 2, "comment": "Not as expected", "review_ts": "2023-02-06T00:00:00"}
+{"review_id": "R00027", "product_id": "P0066", "customer_id": "C0444", "rating": 5, "comment": "", "review_ts": "2024-04-06T00:00:00"}
+{"review_id": "R00028", "product_id": "P0104", "customer_id": "C0499", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-09-30T00:00:00"}
+{"review_id": "R00029", "product_id": "P0051", "customer_id": "C0256", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-10-08T00:00:00"}
+{"review_id": "R00030", "product_id": "P0084", "customer_id": "C0490", "rating": 2, "comment": "Would buy again", "review_ts": "2023-11-28T00:00:00"}
+{"review_id": "R00031", "product_id": "P0067", "customer_id": "C0391", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-08-01T00:00:00"}
+{"review_id": "R00032", "product_id": "P0064", "customer_id": "C0217", "rating": 1, "comment": "Great!", "review_ts": "2023-08-17T00:00:00"}
+{"review_id": "R00033", "product_id": "P0002", "customer_id": "C0266", "rating": 4, "comment": "Great!", "review_ts": "2024-01-26T00:00:00"}
+{"review_id": "R00034", "product_id": "P0104", "customer_id": "C0151", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-10-29T00:00:00"}
+{"review_id": "R00035", "product_id": "P0046", "customer_id": "C0358", "rating": 2, "comment": "", "review_ts": "2024-10-22T00:00:00"}
+{"review_id": "R00036", "product_id": "P0012", "customer_id": "C0121", "rating": 2, "comment": "", "review_ts": "2024-06-22T00:00:00"}
+{"review_id": "R00037", "product_id": "P0023", "customer_id": "C0576", "rating": 3, "comment": "Great!", "review_ts": "2023-01-04T00:00:00"}
+{"review_id": "R00038", "product_id": "P0028", "customer_id": "C0090", "rating": 2, "comment": "Would buy again", "review_ts": "2023-12-19T00:00:00"}
+{"review_id": "R00039", "product_id": "P0035", "customer_id": "C0051", "rating": 4, "comment": "", "review_ts": "2024-05-29T00:00:00"}
+{"review_id": "R00040", "product_id": "P0027", "customer_id": "C0520", "rating": 4, "comment": "", "review_ts": "2024-11-03T00:00:00"}
+{"review_id": "R00041", "product_id": "P0075", "customer_id": "C0098", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-12-23T00:00:00"}
+{"review_id": "R00042", "product_id": "P0107", "customer_id": "C0405", "rating": null, "comment": "Not as expected", "review_ts": "2024-04-06T00:00:00"}
+{"review_id": "R00043", "product_id": "P0012", "customer_id": "C0478", "rating": 1, "comment": "", "review_ts": "2023-09-24T00:00:00"}
+{"review_id": "R00044", "product_id": "P0061", "customer_id": "C0460", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-01-12T00:00:00"}
+{"review_id": "R00045", "product_id": "P0021", "customer_id": "C0251", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-09-03T00:00:00"}
+{"review_id": "R00046", "product_id": "P0083", "customer_id": "C0343", "rating": null, "comment": "Fast shipping", "review_ts": "2024-03-14T00:00:00"}
+{"review_id": "R00047", "product_id": "P0043", "customer_id": "C0126", "rating": 2, "comment": "", "review_ts": "2024-07-02T00:00:00"}
+{"review_id": "R00048", "product_id": "P0077", "customer_id": "C0444", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-02-06T00:00:00"}
+{"review_id": "R00049", "product_id": "P0015", "customer_id": "C0594", "rating": 4, "comment": "Fast shipping", "review_ts": "2024-08-14T00:00:00"}
+{"review_id": "R00050", "product_id": "P0001", "customer_id": "C0559", "rating": 1, "comment": "", "review_ts": "2023-06-07T00:00:00"}
+{"review_id": "R00051", "product_id": "P0098", "customer_id": "C0108", "rating": 5, "comment": "Not as expected", "review_ts": "2024-01-18T00:00:00"}
+{"review_id": "R00052", "product_id": "P0143", "customer_id": "C0098", "rating": 3, "comment": "Great!", "review_ts": "2023-11-01T00:00:00"}
+{"review_id": "R00053", "product_id": "P0025", "customer_id": "C0529", "rating": 3, "comment": "Would buy again", "review_ts": "2023-11-01T00:00:00"}
+{"review_id": "R00054", "product_id": "P0015", "customer_id": "C0058", "rating": 3, "comment": "Would buy again", "review_ts": "2024-09-11T00:00:00"}
+{"review_id": "R00055", "product_id": "P0103", "customer_id": "C0328", "rating": 4, "comment": "Great!", "review_ts": "2024-07-19T00:00:00"}
+{"review_id": "R00056", "product_id": "P0065", "customer_id": "C0377", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-10-05T00:00:00"}
+{"review_id": "R00057", "product_id": "P0070", "customer_id": "C0580", "rating": 3, "comment": "Broken on arrival", "review_ts": "2024-08-02T00:00:00"}
+{"review_id": "R00058", "product_id": "P0120", "customer_id": "C0448", "rating": 3, "comment": "Fast shipping", "review_ts": "2024-03-14T00:00:00"}
+{"review_id": "R00059", "product_id": "P0018", "customer_id": "C0160", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-01-18T00:00:00"}
+{"review_id": "R00060", "product_id": "P0012", "customer_id": "C0082", "rating": null, "comment": "Fast shipping", "review_ts": "2023-05-17T00:00:00"}
+{"review_id": "R00061", "product_id": "P0046", "customer_id": "C0596", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-01-26T00:00:00"}
+{"review_id": "R00062", "product_id": "P0023", "customer_id": "C0349", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-03-16T00:00:00"}
+{"review_id": "R00063", "product_id": "P0043", "customer_id": "C0576", "rating": null, "comment": "Fast shipping", "review_ts": "2023-06-24T00:00:00"}
+{"review_id": "R00064", "product_id": "P0006", "customer_id": "C0098", "rating": 2, "comment": "", "review_ts": "2023-04-22T00:00:00"}
+{"review_id": "R00065", "product_id": "P0118", "customer_id": "C0135", "rating": 2, "comment": "Great!", "review_ts": "2024-08-29T00:00:00"}
+{"review_id": "R00066", "product_id": "P0077", "customer_id": "C0219", "rating": 3, "comment": "Not as expected", "review_ts": "2023-07-11T00:00:00"}
+{"review_id": "R00067", "product_id": "P0007", "customer_id": "C0502", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-03-28T00:00:00"}
+{"review_id": "R00068", "product_id": "P0141", "customer_id": "C0352", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-06-08T00:00:00"}
+{"review_id": "R00069", "product_id": "P0122", "customer_id": "C0210", "rating": 3, "comment": "Great!", "review_ts": "2024-11-16T00:00:00"}
+{"review_id": "R00070", "product_id": "P0062", "customer_id": "C0432", "rating": 2, "comment": "Not as expected", "review_ts": "2023-02-10T00:00:00"}
+{"review_id": "R00071", "product_id": "P0117", "customer_id": "C0223", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-04-12T00:00:00"}
+{"review_id": "R00072", "product_id": "P0055", "customer_id": "C0381", "rating": null, "comment": "Great!", "review_ts": "2024-05-28T00:00:00"}
+{"review_id": "R00073", "product_id": "P0114", "customer_id": "C0452", "rating": 3, "comment": "Would buy again", "review_ts": "2024-05-24T00:00:00"}
+{"review_id": "R00074", "product_id": "P0132", "customer_id": "C0575", "rating": 3, "comment": "Not as expected", "review_ts": "2024-11-30T00:00:00"}
+{"review_id": "R00075", "product_id": "P0094", "customer_id": "C0162", "rating": 3, "comment": "Would buy again", "review_ts": "2023-11-23T00:00:00"}
+{"review_id": "R00076", "product_id": "P0064", "customer_id": "C0311", "rating": 3, "comment": "", "review_ts": "2024-09-25T00:00:00"}
+{"review_id": "R00077", "product_id": "P0147", "customer_id": "C0333", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-10-04T00:00:00"}
+{"review_id": "R00078", "product_id": "P0027", "customer_id": "C0286", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-02-25T00:00:00"}
+{"review_id": "R00079", "product_id": "P0074", "customer_id": "C0235", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-05-11T00:00:00"}
+{"review_id": "R00080", "product_id": "P0074", "customer_id": "C0231", "rating": 1, "comment": "Would buy again", "review_ts": "2024-06-08T00:00:00"}
+{"review_id": "R00081", "product_id": "P0076", "customer_id": "C0542", "rating": 4, "comment": "", "review_ts": "2023-02-03T00:00:00"}
+{"review_id": "R00082", "product_id": "P0110", "customer_id": "C0258", "rating": null, "comment": "Great!", "review_ts": "2023-11-02T00:00:00"}
+{"review_id": "R00083", "product_id": "P0077", "customer_id": "C0153", "rating": 3, "comment": "", "review_ts": "2023-02-21T00:00:00"}
+{"review_id": "R00084", "product_id": "P0146", "customer_id": "C0372", "rating": 5, "comment": "Not as expected", "review_ts": "2023-09-12T00:00:00"}
+{"review_id": "R00085", "product_id": "P0128", "customer_id": "C0324", "rating": null, "comment": "Broken on arrival", "review_ts": "2024-08-10T00:00:00"}
+{"review_id": "R00086", "product_id": "P0013", "customer_id": "C0101", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-01-18T00:00:00"}
+{"review_id": "R00087", "product_id": "P0136", "customer_id": "C0530", "rating": 1, "comment": "Broken on arrival", "review_ts": "2023-07-26T00:00:00"}
+{"review_id": "R00088", "product_id": "P0147", "customer_id": "C0332", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-12-07T00:00:00"}
+{"review_id": "R00089", "product_id": "P0070", "customer_id": "C0340", "rating": 1, "comment": "", "review_ts": "2023-11-25T00:00:00"}
+{"review_id": "R00090", "product_id": "P0047", "customer_id": "C0586", "rating": 4, "comment": "Fast shipping", "review_ts": "2023-09-02T00:00:00"}
+{"review_id": "R00091", "product_id": "P0124", "customer_id": "C0047", "rating": 3, "comment": "Broken on arrival", "review_ts": "2024-02-25T00:00:00"}
+{"review_id": "R00092", "product_id": "P0129", "customer_id": "C0062", "rating": 5, "comment": "Would buy again", "review_ts": "2023-12-29T00:00:00"}
+{"review_id": "R00093", "product_id": "P0102", "customer_id": "C0533", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-02-25T00:00:00"}
+{"review_id": "R00094", "product_id": "P0091", "customer_id": "C0098", "rating": 5, "comment": "Not as expected", "review_ts": "2023-10-11T00:00:00"}
+{"review_id": "R00095", "product_id": "P0079", "customer_id": "C0031", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-01-07T00:00:00"}
+{"review_id": "R00096", "product_id": "P0093", "customer_id": "C0257", "rating": null, "comment": "Broken on arrival", "review_ts": "2024-11-23T00:00:00"}
+{"review_id": "R00097", "product_id": "P0014", "customer_id": "C0124", "rating": 3, "comment": "Not as expected", "review_ts": "2024-08-26T00:00:00"}
+{"review_id": "R00098", "product_id": "P0087", "customer_id": "C0022", "rating": 2, "comment": "", "review_ts": "2023-07-26T00:00:00"}
+{"review_id": "R00099", "product_id": "P0110", "customer_id": "C0559", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-07-10T00:00:00"}
+{"review_id": "R00100", "product_id": "P0058", "customer_id": "C0293", "rating": 1, "comment": "Not as expected", "review_ts": "2023-04-16T00:00:00"}
+{"review_id": "R00101", "product_id": "P0032", "customer_id": "C0030", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-11-02T00:00:00"}
+{"review_id": "R00102", "product_id": "P0147", "customer_id": "C0504", "rating": 1, "comment": "", "review_ts": "2024-10-03T00:00:00"}
+{"review_id": "R00103", "product_id": "P0074", "customer_id": "C0380", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-01-04T00:00:00"}
+{"review_id": "R00104", "product_id": "P0049", "customer_id": "C0300", "rating": null, "comment": "Would buy again", "review_ts": "2023-08-07T00:00:00"}
+{"review_id": "R00105", "product_id": "P0006", "customer_id": "C0410", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-07-22T00:00:00"}
+{"review_id": "R00106", "product_id": "P0080", "customer_id": "C0586", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-01-20T00:00:00"}
+{"review_id": "R00107", "product_id": "P0014", "customer_id": "C0365", "rating": null, "comment": "Fast shipping", "review_ts": "2024-05-19T00:00:00"}
+{"review_id": "R00108", "product_id": "P0116", "customer_id": "C0189", "rating": null, "comment": "Would buy again", "review_ts": "2023-02-10T00:00:00"}
+{"review_id": "R00109", "product_id": "P0067", "customer_id": "C0351", "rating": 3, "comment": "", "review_ts": "2023-10-30T00:00:00"}
+{"review_id": "R00110", "product_id": "P0050", "customer_id": "C0404", "rating": 2, "comment": "Not as expected", "review_ts": "2023-07-17T00:00:00"}
+{"review_id": "R00111", "product_id": "P0021", "customer_id": "C0583", "rating": null, "comment": "Not as expected", "review_ts": "2023-03-17T00:00:00"}
+{"review_id": "R00112", "product_id": "P0040", "customer_id": "C0075", "rating": null, "comment": "Great!", "review_ts": "2024-07-22T00:00:00"}
+{"review_id": "R00113", "product_id": "P0032", "customer_id": "C0118", "rating": null, "comment": "Great!", "review_ts": "2023-08-11T00:00:00"}
+{"review_id": "R00114", "product_id": "P0139", "customer_id": "C0473", "rating": 4, "comment": "Not as expected", "review_ts": "2024-07-15T00:00:00"}
+{"review_id": "R00115", "product_id": "P0007", "customer_id": "C0035", "rating": 4, "comment": "", "review_ts": "2024-05-26T00:00:00"}
+{"review_id": "R00116", "product_id": "P0144", "customer_id": "C0584", "rating": 5, "comment": "Great!", "review_ts": "2024-08-08T00:00:00"}
+{"review_id": "R00117", "product_id": "P0104", "customer_id": "C0537", "rating": 4, "comment": "Great!", "review_ts": "2024-03-02T00:00:00"}
+{"review_id": "R00118", "product_id": "P0099", "customer_id": "C0417", "rating": 5, "comment": "", "review_ts": "2024-06-03T00:00:00"}
+{"review_id": "R00119", "product_id": "P0077", "customer_id": "C0199", "rating": 2, "comment": "Great!", "review_ts": "2024-03-19T00:00:00"}
+{"review_id": "R00120", "product_id": "P0083", "customer_id": "C0034", "rating": 5, "comment": "Would buy again", "review_ts": "2023-08-07T00:00:00"}
+{"review_id": "R00121", "product_id": "P0058", "customer_id": "C0517", "rating": 1, "comment": "", "review_ts": "2023-07-04T00:00:00"}
+{"review_id": "R00122", "product_id": "P0126", "customer_id": "C0139", "rating": 3, "comment": "Would buy again", "review_ts": "2023-02-15T00:00:00"}
+{"review_id": "R00123", "product_id": "P0028", "customer_id": "C0263", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-11-09T00:00:00"}
+{"review_id": "R00124", "product_id": "P0052", "customer_id": "C0579", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-01-21T00:00:00"}
+{"review_id": "R00125", "product_id": "P0133", "customer_id": "C0584", "rating": 5, "comment": "Fast shipping", "review_ts": "2024-05-04T00:00:00"}
+{"review_id": "R00126", "product_id": "P0063", "customer_id": "C0499", "rating": 3, "comment": "Not as expected", "review_ts": "2024-08-29T00:00:00"}
+{"review_id": "R00127", "product_id": "P0082", "customer_id": "C0212", "rating": 4, "comment": "Not as expected", "review_ts": "2024-01-12T00:00:00"}
+{"review_id": "R00128", "product_id": "P0133", "customer_id": "C0013", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-08-26T00:00:00"}
+{"review_id": "R00129", "product_id": "P0095", "customer_id": "C0505", "rating": 3, "comment": "Would buy again", "review_ts": "2024-02-28T00:00:00"}
+{"review_id": "R00130", "product_id": "P0040", "customer_id": "C0019", "rating": 1, "comment": "Not as expected", "review_ts": "2023-07-06T00:00:00"}
+{"review_id": "R00131", "product_id": "P0058", "customer_id": "C0036", "rating": 2, "comment": "Great!", "review_ts": "2023-04-25T00:00:00"}
+{"review_id": "R00132", "product_id": "P0035", "customer_id": "C0370", "rating": null, "comment": "Would buy again", "review_ts": "2024-02-13T00:00:00"}
+{"review_id": "R00133", "product_id": "P0016", "customer_id": "C0111", "rating": 4, "comment": "Not as expected", "review_ts": "2024-06-03T00:00:00"}
+{"review_id": "R00134", "product_id": "P0091", "customer_id": "C0316", "rating": null, "comment": "Fast shipping", "review_ts": "2024-01-08T00:00:00"}
+{"review_id": "R00135", "product_id": "P0091", "customer_id": "C0049", "rating": 3, "comment": "Great!", "review_ts": "2024-10-02T00:00:00"}
+{"review_id": "R00136", "product_id": "P0140", "customer_id": "C0093", "rating": null, "comment": "Broken on arrival", "review_ts": "2024-11-23T00:00:00"}
+{"review_id": "R00137", "product_id": "P0097", "customer_id": "C0092", "rating": 3, "comment": "Not as expected", "review_ts": "2024-01-31T00:00:00"}
+{"review_id": "R00138", "product_id": "P0108", "customer_id": "C0137", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-08-21T00:00:00"}
+{"review_id": "R00139", "product_id": "P0106", "customer_id": "C0479", "rating": 4, "comment": "", "review_ts": "2023-01-04T00:00:00"}
+{"review_id": "R00140", "product_id": "P0066", "customer_id": "C0090", "rating": 1, "comment": "Great!", "review_ts": "2024-05-28T00:00:00"}
+{"review_id": "R00141", "product_id": "P0011", "customer_id": "C0053", "rating": null, "comment": "Not as expected", "review_ts": "2024-10-21T00:00:00"}
+{"review_id": "R00142", "product_id": "P0101", "customer_id": "C0270", "rating": 5, "comment": "Great!", "review_ts": "2023-07-27T00:00:00"}
+{"review_id": "R00143", "product_id": "P0083", "customer_id": "C0572", "rating": 4, "comment": "Fast shipping", "review_ts": "2024-06-22T00:00:00"}
+{"review_id": "R00144", "product_id": "P0092", "customer_id": "C0392", "rating": 3, "comment": "Not as expected", "review_ts": "2024-01-16T00:00:00"}
+{"review_id": "R00145", "product_id": "P0039", "customer_id": "C0476", "rating": 3, "comment": "", "review_ts": "2023-08-08T00:00:00"}
+{"review_id": "R00146", "product_id": "P0024", "customer_id": "C0429", "rating": 4, "comment": "Would buy again", "review_ts": "2023-03-13T00:00:00"}
+{"review_id": "R00147", "product_id": "P0002", "customer_id": "C0355", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-06-29T00:00:00"}
+{"review_id": "R00148", "product_id": "P0092", "customer_id": "C0397", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-08-18T00:00:00"}
+{"review_id": "R00149", "product_id": "P0054", "customer_id": "C0481", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-07-16T00:00:00"}
+{"review_id": "R00150", "product_id": "P0079", "customer_id": "C0531", "rating": 5, "comment": "Would buy again", "review_ts": "2023-03-17T00:00:00"}
+{"review_id": "R00151", "product_id": "P0016", "customer_id": "C0026", "rating": 1, "comment": "Great!", "review_ts": "2023-06-22T00:00:00"}
+{"review_id": "R00152", "product_id": "P0065", "customer_id": "C0176", "rating": 1, "comment": "Great!", "review_ts": "2023-05-16T00:00:00"}
+{"review_id": "R00153", "product_id": "P0116", "customer_id": "C0448", "rating": 4, "comment": "Great!", "review_ts": "2024-02-03T00:00:00"}
+{"review_id": "R00154", "product_id": "P0102", "customer_id": "C0133", "rating": 3, "comment": "", "review_ts": "2024-08-19T00:00:00"}
+{"review_id": "R00155", "product_id": "P0095", "customer_id": "C0456", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-10-30T00:00:00"}
+{"review_id": "R00156", "product_id": "P0077", "customer_id": "C0111", "rating": 1, "comment": "Not as expected", "review_ts": "2024-05-30T00:00:00"}
+{"review_id": "R00157", "product_id": "P0080", "customer_id": "C0485", "rating": 3, "comment": "Not as expected", "review_ts": "2023-04-06T00:00:00"}
+{"review_id": "R00158", "product_id": "P0124", "customer_id": "C0174", "rating": 4, "comment": "Fast shipping", "review_ts": "2024-10-08T00:00:00"}
+{"review_id": "R00159", "product_id": "P0039", "customer_id": "C0078", "rating": null, "comment": "Would buy again", "review_ts": "2023-09-20T00:00:00"}
+{"review_id": "R00160", "product_id": "P0015", "customer_id": "C0282", "rating": 4, "comment": "Would buy again", "review_ts": "2024-07-30T00:00:00"}
+{"review_id": "R00161", "product_id": "P0023", "customer_id": "C0202", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-04-24T00:00:00"}
+{"review_id": "R00162", "product_id": "P0112", "customer_id": "C0070", "rating": null, "comment": "Broken on arrival", "review_ts": "2024-06-21T00:00:00"}
+{"review_id": "R00163", "product_id": "P0076", "customer_id": "C0571", "rating": null, "comment": "Would buy again", "review_ts": "2024-10-05T00:00:00"}
+{"review_id": "R00164", "product_id": "P0146", "customer_id": "C0582", "rating": null, "comment": "Great!", "review_ts": "2024-10-10T00:00:00"}
+{"review_id": "R00165", "product_id": "P0040", "customer_id": "C0375", "rating": 2, "comment": "", "review_ts": "2024-06-27T00:00:00"}
+{"review_id": "R00166", "product_id": "P0033", "customer_id": "C0437", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-03-30T00:00:00"}
+{"review_id": "R00167", "product_id": "P0079", "customer_id": "C0343", "rating": null, "comment": "Fast shipping", "review_ts": "2023-01-04T00:00:00"}
+{"review_id": "R00168", "product_id": "P0120", "customer_id": "C0234", "rating": 2, "comment": "Not as expected", "review_ts": "2023-02-17T00:00:00"}
+{"review_id": "R00169", "product_id": "P0134", "customer_id": "C0462", "rating": 1, "comment": "Not as expected", "review_ts": "2024-06-10T00:00:00"}
+{"review_id": "R00170", "product_id": "P0042", "customer_id": "C0268", "rating": 2, "comment": "Would buy again", "review_ts": "2024-07-13T00:00:00"}
+{"review_id": "R00171", "product_id": "P0093", "customer_id": "C0155", "rating": 4, "comment": "Great!", "review_ts": "2023-10-27T00:00:00"}
+{"review_id": "R00172", "product_id": "P0115", "customer_id": "C0227", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-11-10T00:00:00"}
+{"review_id": "R00173", "product_id": "P0100", "customer_id": "C0208", "rating": null, "comment": "Fast shipping", "review_ts": "2024-01-28T00:00:00"}
+{"review_id": "R00174", "product_id": "P0067", "customer_id": "C0465", "rating": 3, "comment": "Would buy again", "review_ts": "2024-03-19T00:00:00"}
+{"review_id": "R00175", "product_id": "P0087", "customer_id": "C0552", "rating": 1, "comment": "Not as expected", "review_ts": "2023-04-11T00:00:00"}
+{"review_id": "R00176", "product_id": "P0022", "customer_id": "C0015", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-05-11T00:00:00"}
+{"review_id": "R00177", "product_id": "P0043", "customer_id": "C0074", "rating": null, "comment": "Would buy again", "review_ts": "2023-04-06T00:00:00"}
+{"review_id": "R00178", "product_id": "P0090", "customer_id": "C0567", "rating": 3, "comment": "Would buy again", "review_ts": "2024-06-29T00:00:00"}
+{"review_id": "R00179", "product_id": "P0019", "customer_id": "C0163", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-07-28T00:00:00"}
+{"review_id": "R00180", "product_id": "P0135", "customer_id": "C0399", "rating": 4, "comment": "Great!", "review_ts": "2024-06-04T00:00:00"}
+{"review_id": "R00181", "product_id": "P0142", "customer_id": "C0172", "rating": 2, "comment": "Not as expected", "review_ts": "2023-08-31T00:00:00"}
+{"review_id": "R00182", "product_id": "P0096", "customer_id": "C0101", "rating": 1, "comment": "Not as expected", "review_ts": "2024-11-03T00:00:00"}
+{"review_id": "R00183", "product_id": "P0150", "customer_id": "C0321", "rating": null, "comment": "Not as expected", "review_ts": "2023-06-26T00:00:00"}
+{"review_id": "R00184", "product_id": "P0083", "customer_id": "C0258", "rating": 5, "comment": "", "review_ts": "2023-10-21T00:00:00"}
+{"review_id": "R00185", "product_id": "P0093", "customer_id": "C0435", "rating": 1, "comment": "Not as expected", "review_ts": "2023-03-23T00:00:00"}
+{"review_id": "R00186", "product_id": "P0121", "customer_id": "C0390", "rating": 5, "comment": "", "review_ts": "2023-04-16T00:00:00"}
+{"review_id": "R00187", "product_id": "P0015", "customer_id": "C0087", "rating": null, "comment": "Not as expected", "review_ts": "2023-06-12T00:00:00"}
+{"review_id": "R00188", "product_id": "P0072", "customer_id": "C0455", "rating": 1, "comment": "Broken on arrival", "review_ts": "2023-07-12T00:00:00"}
+{"review_id": "R00189", "product_id": "P0015", "customer_id": "C0495", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-03-22T00:00:00"}
+{"review_id": "R00190", "product_id": "P0072", "customer_id": "C0179", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-01-02T00:00:00"}
+{"review_id": "R00191", "product_id": "P0113", "customer_id": "C0270", "rating": null, "comment": "Fast shipping", "review_ts": "2024-11-27T00:00:00"}
+{"review_id": "R00192", "product_id": "P0071", "customer_id": "C0366", "rating": null, "comment": "Great!", "review_ts": "2024-03-28T00:00:00"}
+{"review_id": "R00193", "product_id": "P0060", "customer_id": "C0193", "rating": 1, "comment": "Great!", "review_ts": "2024-02-21T00:00:00"}
+{"review_id": "R00194", "product_id": "P0087", "customer_id": "C0257", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-02-06T00:00:00"}
+{"review_id": "R00195", "product_id": "P0095", "customer_id": "C0434", "rating": 5, "comment": "Great!", "review_ts": "2024-01-16T00:00:00"}
+{"review_id": "R00196", "product_id": "P0145", "customer_id": "C0074", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-12-28T00:00:00"}
+{"review_id": "R00197", "product_id": "P0086", "customer_id": "C0094", "rating": 4, "comment": "Not as expected", "review_ts": "2024-07-25T00:00:00"}
+{"review_id": "R00198", "product_id": "P0100", "customer_id": "C0246", "rating": 2, "comment": "Great!", "review_ts": "2023-08-10T00:00:00"}
+{"review_id": "R00199", "product_id": "P0112", "customer_id": "C0053", "rating": 1, "comment": "Broken on arrival", "review_ts": "2023-04-06T00:00:00"}
+{"review_id": "R00200", "product_id": "P0078", "customer_id": "C0468", "rating": 2, "comment": "Not as expected", "review_ts": "2024-11-22T00:00:00"}
+{"review_id": "R00201", "product_id": "P0033", "customer_id": "C0590", "rating": null, "comment": "Fast shipping", "review_ts": "2023-12-05T00:00:00"}
+{"review_id": "R00202", "product_id": "P0052", "customer_id": "C0099", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-11-21T00:00:00"}
+{"review_id": "R00203", "product_id": "P0021", "customer_id": "C0375", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-04-11T00:00:00"}
+{"review_id": "R00204", "product_id": "P0141", "customer_id": "C0016", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-01-11T00:00:00"}
+{"review_id": "R00205", "product_id": "P0008", "customer_id": "C0503", "rating": 3, "comment": "", "review_ts": "2023-08-19T00:00:00"}
+{"review_id": "R00206", "product_id": "P0133", "customer_id": "C0014", "rating": null, "comment": "", "review_ts": "2024-09-11T00:00:00"}
+{"review_id": "R00207", "product_id": "P0070", "customer_id": "C0159", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-09-22T00:00:00"}
+{"review_id": "R00208", "product_id": "P0102", "customer_id": "C0107", "rating": null, "comment": "Would buy again", "review_ts": "2024-08-28T00:00:00"}
+{"review_id": "R00209", "product_id": "P0010", "customer_id": "C0599", "rating": 4, "comment": "Would buy again", "review_ts": "2024-07-08T00:00:00"}
+{"review_id": "R00210", "product_id": "P0110", "customer_id": "C0322", "rating": null, "comment": "Would buy again", "review_ts": "2023-03-23T00:00:00"}
+{"review_id": "R00211", "product_id": "P0058", "customer_id": "C0101", "rating": 1, "comment": "Would buy again", "review_ts": "2024-05-26T00:00:00"}
+{"review_id": "R00212", "product_id": "P0006", "customer_id": "C0507", "rating": 4, "comment": "Would buy again", "review_ts": "2023-03-20T00:00:00"}
+{"review_id": "R00213", "product_id": "P0086", "customer_id": "C0433", "rating": 3, "comment": "", "review_ts": "2024-08-21T00:00:00"}
+{"review_id": "R00214", "product_id": "P0031", "customer_id": "C0410", "rating": 4, "comment": "Great!", "review_ts": "2024-03-09T00:00:00"}
+{"review_id": "R00215", "product_id": "P0083", "customer_id": "C0419", "rating": 4, "comment": "Great!", "review_ts": "2024-11-22T00:00:00"}
+{"review_id": "R00216", "product_id": "P0148", "customer_id": "C0510", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-05-19T00:00:00"}
+{"review_id": "R00217", "product_id": "P0140", "customer_id": "C0519", "rating": 3, "comment": "Great!", "review_ts": "2024-03-11T00:00:00"}
+{"review_id": "R00218", "product_id": "P0141", "customer_id": "C0177", "rating": 1, "comment": "Not as expected", "review_ts": "2024-07-24T00:00:00"}
+{"review_id": "R00219", "product_id": "P0095", "customer_id": "C0145", "rating": null, "comment": "Would buy again", "review_ts": "2024-01-10T00:00:00"}
+{"review_id": "R00220", "product_id": "P0120", "customer_id": "C0595", "rating": 3, "comment": "Great!", "review_ts": "2023-03-09T00:00:00"}
+{"review_id": "R00221", "product_id": "P0087", "customer_id": "C0283", "rating": null, "comment": "Great!", "review_ts": "2024-11-13T00:00:00"}
+{"review_id": "R00222", "product_id": "P0095", "customer_id": "C0019", "rating": 4, "comment": "Would buy again", "review_ts": "2024-08-22T00:00:00"}
+{"review_id": "R00223", "product_id": "P0143", "customer_id": "C0333", "rating": 1, "comment": "Great!", "review_ts": "2024-07-10T00:00:00"}
+{"review_id": "R00224", "product_id": "P0142", "customer_id": "C0092", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-11-25T00:00:00"}
+{"review_id": "R00225", "product_id": "P0126", "customer_id": "C0519", "rating": 4, "comment": "Not as expected", "review_ts": "2023-10-06T00:00:00"}
+{"review_id": "R00226", "product_id": "P0131", "customer_id": "C0055", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-04-30T00:00:00"}
+{"review_id": "R00227", "product_id": "P0065", "customer_id": "C0598", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-04-08T00:00:00"}
+{"review_id": "R00228", "product_id": "P0096", "customer_id": "C0444", "rating": null, "comment": "Great!", "review_ts": "2024-01-25T00:00:00"}
+{"review_id": "R00229", "product_id": "P0147", "customer_id": "C0310", "rating": 3, "comment": "Great!", "review_ts": "2023-05-24T00:00:00"}
+{"review_id": "R00230", "product_id": "P0050", "customer_id": "C0095", "rating": 2, "comment": "", "review_ts": "2023-10-22T00:00:00"}
+{"review_id": "R00231", "product_id": "P0048", "customer_id": "C0376", "rating": 5, "comment": "Not as expected", "review_ts": "2024-09-19T00:00:00"}
+{"review_id": "R00232", "product_id": "P0098", "customer_id": "C0570", "rating": 5, "comment": "Fast shipping", "review_ts": "2024-04-17T00:00:00"}
+{"review_id": "R00233", "product_id": "P0025", "customer_id": "C0218", "rating": null, "comment": "", "review_ts": "2024-09-18T00:00:00"}
+{"review_id": "R00234", "product_id": "P0091", "customer_id": "C0450", "rating": 1, "comment": "Great!", "review_ts": "2023-04-19T00:00:00"}
+{"review_id": "R00235", "product_id": "P0109", "customer_id": "C0532", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-03-09T00:00:00"}
+{"review_id": "R00236", "product_id": "P0038", "customer_id": "C0167", "rating": null, "comment": "Fast shipping", "review_ts": "2024-10-07T00:00:00"}
+{"review_id": "R00237", "product_id": "P0016", "customer_id": "C0173", "rating": 2, "comment": "Would buy again", "review_ts": "2024-03-31T00:00:00"}
+{"review_id": "R00238", "product_id": "P0138", "customer_id": "C0597", "rating": null, "comment": "Not as expected", "review_ts": "2023-02-15T00:00:00"}
+{"review_id": "R00239", "product_id": "P0052", "customer_id": "C0522", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-04-21T00:00:00"}
+{"review_id": "R00240", "product_id": "P0101", "customer_id": "C0051", "rating": 3, "comment": "Great!", "review_ts": "2024-08-10T00:00:00"}
+{"review_id": "R00241", "product_id": "P0102", "customer_id": "C0183", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-05-28T00:00:00"}
+{"review_id": "R00242", "product_id": "P0145", "customer_id": "C0160", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-08-04T00:00:00"}
+{"review_id": "R00243", "product_id": "P0092", "customer_id": "C0202", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-06-22T00:00:00"}
+{"review_id": "R00244", "product_id": "P0031", "customer_id": "C0006", "rating": null, "comment": "Would buy again", "review_ts": "2024-07-16T00:00:00"}
+{"review_id": "R00245", "product_id": "P0093", "customer_id": "C0199", "rating": 2, "comment": "", "review_ts": "2024-03-31T00:00:00"}
+{"review_id": "R00246", "product_id": "P0034", "customer_id": "C0425", "rating": 2, "comment": "Great!", "review_ts": "2024-03-18T00:00:00"}
+{"review_id": "R00247", "product_id": "P0102", "customer_id": "C0449", "rating": 3, "comment": "Fast shipping", "review_ts": "2024-08-18T00:00:00"}
+{"review_id": "R00248", "product_id": "P0004", "customer_id": "C0356", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-08-08T00:00:00"}
+{"review_id": "R00249", "product_id": "P0005", "customer_id": "C0236", "rating": 4, "comment": "Fast shipping", "review_ts": "2024-11-13T00:00:00"}
+{"review_id": "R00250", "product_id": "P0062", "customer_id": "C0457", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-03-04T00:00:00"}
+{"review_id": "R00251", "product_id": "P0130", "customer_id": "C0500", "rating": 2, "comment": "Great!", "review_ts": "2024-02-15T00:00:00"}
+{"review_id": "R00252", "product_id": "P0144", "customer_id": "C0138", "rating": 5, "comment": "Fast shipping", "review_ts": "2024-06-12T00:00:00"}
+{"review_id": "R00253", "product_id": "P0032", "customer_id": "C0428", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-08-15T00:00:00"}
+{"review_id": "R00254", "product_id": "P0108", "customer_id": "C0472", "rating": 2, "comment": "Would buy again", "review_ts": "2023-11-02T00:00:00"}
+{"review_id": "R00255", "product_id": "P0035", "customer_id": "C0432", "rating": null, "comment": "Would buy again", "review_ts": "2023-03-28T00:00:00"}
+{"review_id": "R00256", "product_id": "P0150", "customer_id": "C0070", "rating": 4, "comment": "Not as expected", "review_ts": "2024-04-07T00:00:00"}
+{"review_id": "R00257", "product_id": "P0134", "customer_id": "C0030", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-04-03T00:00:00"}
+{"review_id": "R00258", "product_id": "P0038", "customer_id": "C0002", "rating": 2, "comment": "", "review_ts": "2024-06-27T00:00:00"}
+{"review_id": "R00259", "product_id": "P0138", "customer_id": "C0541", "rating": null, "comment": "Not as expected", "review_ts": "2023-08-07T00:00:00"}
+{"review_id": "R00260", "product_id": "P0149", "customer_id": "C0429", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-01-03T00:00:00"}
+{"review_id": "R00261", "product_id": "P0144", "customer_id": "C0426", "rating": 4, "comment": "Great!", "review_ts": "2023-03-12T00:00:00"}
+{"review_id": "R00262", "product_id": "P0081", "customer_id": "C0167", "rating": null, "comment": "Fast shipping", "review_ts": "2023-06-27T00:00:00"}
+{"review_id": "R00263", "product_id": "P0069", "customer_id": "C0278", "rating": 2, "comment": "Great!", "review_ts": "2023-02-15T00:00:00"}
+{"review_id": "R00264", "product_id": "P0033", "customer_id": "C0557", "rating": 2, "comment": "Not as expected", "review_ts": "2023-04-07T00:00:00"}
+{"review_id": "R00265", "product_id": "P0006", "customer_id": "C0212", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-10-30T00:00:00"}
+{"review_id": "R00266", "product_id": "P0068", "customer_id": "C0036", "rating": 1, "comment": "Would buy again", "review_ts": "2023-07-08T00:00:00"}
+{"review_id": "R00267", "product_id": "P0088", "customer_id": "C0258", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-01-25T00:00:00"}
+{"review_id": "R00268", "product_id": "P0132", "customer_id": "C0213", "rating": 1, "comment": "", "review_ts": "2024-06-10T00:00:00"}
+{"review_id": "R00269", "product_id": "P0032", "customer_id": "C0530", "rating": 1, "comment": "Not as expected", "review_ts": "2023-10-13T00:00:00"}
+{"review_id": "R00270", "product_id": "P0049", "customer_id": "C0031", "rating": 4, "comment": "Great!", "review_ts": "2023-11-06T00:00:00"}
+{"review_id": "R00271", "product_id": "P0139", "customer_id": "C0535", "rating": null, "comment": "Not as expected", "review_ts": "2023-02-12T00:00:00"}
+{"review_id": "R00272", "product_id": "P0085", "customer_id": "C0301", "rating": 3, "comment": "Great!", "review_ts": "2024-07-16T00:00:00"}
+{"review_id": "R00273", "product_id": "P0034", "customer_id": "C0478", "rating": null, "comment": "Fast shipping", "review_ts": "2024-09-05T00:00:00"}
+{"review_id": "R00274", "product_id": "P0140", "customer_id": "C0387", "rating": 5, "comment": "Fast shipping", "review_ts": "2024-07-21T00:00:00"}
+{"review_id": "R00275", "product_id": "P0025", "customer_id": "C0578", "rating": 4, "comment": "Fast shipping", "review_ts": "2024-06-02T00:00:00"}
+{"review_id": "R00276", "product_id": "P0142", "customer_id": "C0293", "rating": 4, "comment": "", "review_ts": "2024-03-25T00:00:00"}
+{"review_id": "R00277", "product_id": "P0067", "customer_id": "C0531", "rating": 2, "comment": "Not as expected", "review_ts": "2023-07-14T00:00:00"}
+{"review_id": "R00278", "product_id": "P0044", "customer_id": "C0522", "rating": 4, "comment": "Fast shipping", "review_ts": "2023-06-19T00:00:00"}
+{"review_id": "R00279", "product_id": "P0086", "customer_id": "C0009", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-10-13T00:00:00"}
+{"review_id": "R00280", "product_id": "P0119", "customer_id": "C0094", "rating": null, "comment": "", "review_ts": "2024-05-12T00:00:00"}
+{"review_id": "R00281", "product_id": "P0075", "customer_id": "C0138", "rating": 4, "comment": "Fast shipping", "review_ts": "2024-07-11T00:00:00"}
+{"review_id": "R00282", "product_id": "P0140", "customer_id": "C0292", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-03-21T00:00:00"}
+{"review_id": "R00283", "product_id": "P0022", "customer_id": "C0149", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-01-27T00:00:00"}
+{"review_id": "R00284", "product_id": "P0022", "customer_id": "C0070", "rating": 4, "comment": "", "review_ts": "2023-02-08T00:00:00"}
+{"review_id": "R00285", "product_id": "P0026", "customer_id": "C0156", "rating": null, "comment": "Fast shipping", "review_ts": "2023-04-28T00:00:00"}
+{"review_id": "R00286", "product_id": "P0142", "customer_id": "C0105", "rating": 1, "comment": "", "review_ts": "2024-02-24T00:00:00"}
+{"review_id": "R00287", "product_id": "P0014", "customer_id": "C0442", "rating": 4, "comment": "Not as expected", "review_ts": "2023-04-14T00:00:00"}
+{"review_id": "R00288", "product_id": "P0006", "customer_id": "C0567", "rating": 4, "comment": "Would buy again", "review_ts": "2024-10-26T00:00:00"}
+{"review_id": "R00289", "product_id": "P0042", "customer_id": "C0396", "rating": null, "comment": "Not as expected", "review_ts": "2023-04-05T00:00:00"}
+{"review_id": "R00290", "product_id": "P0097", "customer_id": "C0545", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-07-04T00:00:00"}
+{"review_id": "R00291", "product_id": "P0005", "customer_id": "C0156", "rating": 1, "comment": "Broken on arrival", "review_ts": "2023-07-19T00:00:00"}
+{"review_id": "R00292", "product_id": "P0018", "customer_id": "C0306", "rating": 1, "comment": "Great!", "review_ts": "2024-08-28T00:00:00"}
+{"review_id": "R00293", "product_id": "P0034", "customer_id": "C0275", "rating": 3, "comment": "Not as expected", "review_ts": "2023-07-06T00:00:00"}
+{"review_id": "R00294", "product_id": "P0150", "customer_id": "C0349", "rating": null, "comment": "Fast shipping", "review_ts": "2023-01-05T00:00:00"}
+{"review_id": "R00295", "product_id": "P0089", "customer_id": "C0422", "rating": 5, "comment": "", "review_ts": "2024-02-04T00:00:00"}
+{"review_id": "R00296", "product_id": "P0074", "customer_id": "C0147", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-05-07T00:00:00"}
+{"review_id": "R00297", "product_id": "P0126", "customer_id": "C0172", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-05-21T00:00:00"}
+{"review_id": "R00298", "product_id": "P0126", "customer_id": "C0207", "rating": 1, "comment": "Would buy again", "review_ts": "2024-07-22T00:00:00"}
+{"review_id": "R00299", "product_id": "P0146", "customer_id": "C0475", "rating": 1, "comment": "Broken on arrival", "review_ts": "2023-02-18T00:00:00"}
+{"review_id": "R00300", "product_id": "P0080", "customer_id": "C0261", "rating": 4, "comment": "Not as expected", "review_ts": "2023-01-18T00:00:00"}
+{"review_id": "R00301", "product_id": "P0054", "customer_id": "C0429", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-12-29T00:00:00"}
+{"review_id": "R00302", "product_id": "P0122", "customer_id": "C0074", "rating": 5, "comment": "Would buy again", "review_ts": "2023-03-20T00:00:00"}
+{"review_id": "R00303", "product_id": "P0112", "customer_id": "C0462", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-06-01T00:00:00"}
+{"review_id": "R00304", "product_id": "P0019", "customer_id": "C0250", "rating": 2, "comment": "Great!", "review_ts": "2023-04-12T00:00:00"}
+{"review_id": "R00305", "product_id": "P0072", "customer_id": "C0026", "rating": 4, "comment": "", "review_ts": "2024-07-25T00:00:00"}
+{"review_id": "R00306", "product_id": "P0020", "customer_id": "C0227", "rating": 4, "comment": "", "review_ts": "2024-01-25T00:00:00"}
+{"review_id": "R00307", "product_id": "P0080", "customer_id": "C0580", "rating": 2, "comment": "Would buy again", "review_ts": "2023-01-11T00:00:00"}
+{"review_id": "R00308", "product_id": "P0127", "customer_id": "C0057", "rating": 2, "comment": "Would buy again", "review_ts": "2023-08-16T00:00:00"}
+{"review_id": "R00309", "product_id": "P0145", "customer_id": "C0286", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-04-28T00:00:00"}
+{"review_id": "R00310", "product_id": "P0057", "customer_id": "C0259", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-05-16T00:00:00"}
+{"review_id": "R00311", "product_id": "P0015", "customer_id": "C0404", "rating": null, "comment": "Fast shipping", "review_ts": "2024-11-12T00:00:00"}
+{"review_id": "R00312", "product_id": "P0146", "customer_id": "C0133", "rating": 2, "comment": "Not as expected", "review_ts": "2023-11-19T00:00:00"}
+{"review_id": "R00313", "product_id": "P0114", "customer_id": "C0098", "rating": 4, "comment": "", "review_ts": "2023-10-25T00:00:00"}
+{"review_id": "R00314", "product_id": "P0013", "customer_id": "C0029", "rating": 3, "comment": "Would buy again", "review_ts": "2024-08-08T00:00:00"}
+{"review_id": "R00315", "product_id": "P0093", "customer_id": "C0162", "rating": 3, "comment": "Great!", "review_ts": "2023-09-30T00:00:00"}
+{"review_id": "R00316", "product_id": "P0057", "customer_id": "C0275", "rating": null, "comment": "", "review_ts": "2024-01-08T00:00:00"}
+{"review_id": "R00317", "product_id": "P0110", "customer_id": "C0302", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-08-12T00:00:00"}
+{"review_id": "R00318", "product_id": "P0124", "customer_id": "C0080", "rating": 5, "comment": "Great!", "review_ts": "2023-04-03T00:00:00"}
+{"review_id": "R00319", "product_id": "P0036", "customer_id": "C0045", "rating": 4, "comment": "Not as expected", "review_ts": "2023-09-04T00:00:00"}
+{"review_id": "R00320", "product_id": "P0091", "customer_id": "C0478", "rating": 3, "comment": "", "review_ts": "2024-08-15T00:00:00"}
+{"review_id": "R00321", "product_id": "P0123", "customer_id": "C0267", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-11-20T00:00:00"}
+{"review_id": "R00322", "product_id": "P0104", "customer_id": "C0446", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-10-15T00:00:00"}
+{"review_id": "R00323", "product_id": "P0097", "customer_id": "C0410", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-02-11T00:00:00"}
+{"review_id": "R00324", "product_id": "P0113", "customer_id": "C0251", "rating": 5, "comment": "", "review_ts": "2023-04-06T00:00:00"}
+{"review_id": "R00325", "product_id": "P0057", "customer_id": "C0296", "rating": null, "comment": "Would buy again", "review_ts": "2023-04-16T00:00:00"}
+{"review_id": "R00326", "product_id": "P0101", "customer_id": "C0567", "rating": null, "comment": "Fast shipping", "review_ts": "2023-01-13T00:00:00"}
+{"review_id": "R00327", "product_id": "P0055", "customer_id": "C0165", "rating": 3, "comment": "Not as expected", "review_ts": "2023-06-15T00:00:00"}
+{"review_id": "R00328", "product_id": "P0029", "customer_id": "C0410", "rating": null, "comment": "Fast shipping", "review_ts": "2023-12-28T00:00:00"}
+{"review_id": "R00329", "product_id": "P0052", "customer_id": "C0135", "rating": null, "comment": "Fast shipping", "review_ts": "2023-10-21T00:00:00"}
+{"review_id": "R00330", "product_id": "P0035", "customer_id": "C0120", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-04-08T00:00:00"}
+{"review_id": "R00331", "product_id": "P0004", "customer_id": "C0017", "rating": 3, "comment": "Would buy again", "review_ts": "2024-06-10T00:00:00"}
+{"review_id": "R00332", "product_id": "P0050", "customer_id": "C0308", "rating": 5, "comment": "Great!", "review_ts": "2023-02-24T00:00:00"}
+{"review_id": "R00333", "product_id": "P0086", "customer_id": "C0486", "rating": 1, "comment": "Would buy again", "review_ts": "2024-07-28T00:00:00"}
+{"review_id": "R00334", "product_id": "P0050", "customer_id": "C0410", "rating": 3, "comment": "Great!", "review_ts": "2023-10-27T00:00:00"}
+{"review_id": "R00335", "product_id": "P0103", "customer_id": "C0565", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-09-01T00:00:00"}
+{"review_id": "R00336", "product_id": "P0022", "customer_id": "C0521", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-02-27T00:00:00"}
+{"review_id": "R00337", "product_id": "P0091", "customer_id": "C0203", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-08-13T00:00:00"}
+{"review_id": "R00338", "product_id": "P0009", "customer_id": "C0037", "rating": 3, "comment": "Broken on arrival", "review_ts": "2024-07-05T00:00:00"}
+{"review_id": "R00339", "product_id": "P0056", "customer_id": "C0251", "rating": 1, "comment": "Great!", "review_ts": "2024-07-09T00:00:00"}
+{"review_id": "R00340", "product_id": "P0013", "customer_id": "C0482", "rating": 3, "comment": "Great!", "review_ts": "2024-08-27T00:00:00"}
+{"review_id": "R00341", "product_id": "P0085", "customer_id": "C0059", "rating": null, "comment": "Not as expected", "review_ts": "2023-11-28T00:00:00"}
+{"review_id": "R00342", "product_id": "P0070", "customer_id": "C0364", "rating": 1, "comment": "Not as expected", "review_ts": "2024-03-16T00:00:00"}
+{"review_id": "R00343", "product_id": "P0071", "customer_id": "C0038", "rating": 2, "comment": "", "review_ts": "2024-09-14T00:00:00"}
+{"review_id": "R00344", "product_id": "P0077", "customer_id": "C0174", "rating": null, "comment": "Not as expected", "review_ts": "2023-02-14T00:00:00"}
+{"review_id": "R00345", "product_id": "P0144", "customer_id": "C0325", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-01-03T00:00:00"}
+{"review_id": "R00346", "product_id": "P0049", "customer_id": "C0100", "rating": 2, "comment": "", "review_ts": "2023-04-10T00:00:00"}
+{"review_id": "R00347", "product_id": "P0093", "customer_id": "C0329", "rating": 5, "comment": "Fast shipping", "review_ts": "2024-08-11T00:00:00"}
+{"review_id": "R00348", "product_id": "P0095", "customer_id": "C0555", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-03-13T00:00:00"}
+{"review_id": "R00349", "product_id": "P0113", "customer_id": "C0111", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-12-13T00:00:00"}
+{"review_id": "R00350", "product_id": "P0083", "customer_id": "C0214", "rating": 4, "comment": "Great!", "review_ts": "2023-05-01T00:00:00"}
+{"review_id": "R00351", "product_id": "P0140", "customer_id": "C0087", "rating": 1, "comment": "", "review_ts": "2024-04-26T00:00:00"}
+{"review_id": "R00352", "product_id": "P0001", "customer_id": "C0203", "rating": 2, "comment": "Would buy again", "review_ts": "2023-02-15T00:00:00"}
+{"review_id": "R00353", "product_id": "P0064", "customer_id": "C0150", "rating": null, "comment": "Fast shipping", "review_ts": "2023-07-25T00:00:00"}
+{"review_id": "R00354", "product_id": "P0138", "customer_id": "C0199", "rating": 4, "comment": "Great!", "review_ts": "2023-10-21T00:00:00"}
+{"review_id": "R00355", "product_id": "P0069", "customer_id": "C0121", "rating": 4, "comment": "Would buy again", "review_ts": "2023-06-09T00:00:00"}
+{"review_id": "R00356", "product_id": "P0019", "customer_id": "C0406", "rating": 3, "comment": "Great!", "review_ts": "2023-11-16T00:00:00"}
+{"review_id": "R00357", "product_id": "P0140", "customer_id": "C0121", "rating": 1, "comment": "Great!", "review_ts": "2023-10-29T00:00:00"}
+{"review_id": "R00358", "product_id": "P0105", "customer_id": "C0538", "rating": 4, "comment": "Not as expected", "review_ts": "2024-01-24T00:00:00"}
+{"review_id": "R00359", "product_id": "P0030", "customer_id": "C0119", "rating": 4, "comment": "Not as expected", "review_ts": "2024-05-04T00:00:00"}
+{"review_id": "R00360", "product_id": "P0004", "customer_id": "C0172", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-08-02T00:00:00"}
+{"review_id": "R00361", "product_id": "P0140", "customer_id": "C0253", "rating": 3, "comment": "Great!", "review_ts": "2023-07-29T00:00:00"}
+{"review_id": "R00362", "product_id": "P0093", "customer_id": "C0318", "rating": null, "comment": "Would buy again", "review_ts": "2024-09-05T00:00:00"}
+{"review_id": "R00363", "product_id": "P0102", "customer_id": "C0447", "rating": 2, "comment": "Great!", "review_ts": "2023-07-23T00:00:00"}
+{"review_id": "R00364", "product_id": "P0028", "customer_id": "C0151", "rating": 1, "comment": "Not as expected", "review_ts": "2023-03-18T00:00:00"}
+{"review_id": "R00365", "product_id": "P0048", "customer_id": "C0304", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-11-13T00:00:00"}
+{"review_id": "R00366", "product_id": "P0098", "customer_id": "C0370", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-05-12T00:00:00"}
+{"review_id": "R00367", "product_id": "P0029", "customer_id": "C0201", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-07-02T00:00:00"}
+{"review_id": "R00368", "product_id": "P0021", "customer_id": "C0327", "rating": 2, "comment": "Would buy again", "review_ts": "2023-10-10T00:00:00"}
+{"review_id": "R00369", "product_id": "P0067", "customer_id": "C0015", "rating": 4, "comment": "Great!", "review_ts": "2023-03-20T00:00:00"}
+{"review_id": "R00370", "product_id": "P0075", "customer_id": "C0407", "rating": null, "comment": "Great!", "review_ts": "2023-05-15T00:00:00"}
+{"review_id": "R00371", "product_id": "P0003", "customer_id": "C0336", "rating": null, "comment": "Would buy again", "review_ts": "2023-10-09T00:00:00"}
+{"review_id": "R00372", "product_id": "P0143", "customer_id": "C0276", "rating": 3, "comment": "Broken on arrival", "review_ts": "2024-01-17T00:00:00"}
+{"review_id": "R00373", "product_id": "P0057", "customer_id": "C0199", "rating": 4, "comment": "Great!", "review_ts": "2023-01-29T00:00:00"}
+{"review_id": "R00374", "product_id": "P0123", "customer_id": "C0291", "rating": 5, "comment": "Great!", "review_ts": "2023-07-26T00:00:00"}
+{"review_id": "R00375", "product_id": "P0049", "customer_id": "C0361", "rating": 2, "comment": "Not as expected", "review_ts": "2023-09-08T00:00:00"}
+{"review_id": "R00376", "product_id": "P0110", "customer_id": "C0269", "rating": 1, "comment": "Broken on arrival", "review_ts": "2023-12-25T00:00:00"}
+{"review_id": "R00377", "product_id": "P0029", "customer_id": "C0485", "rating": 1, "comment": "", "review_ts": "2023-01-04T00:00:00"}
+{"review_id": "R00378", "product_id": "P0115", "customer_id": "C0343", "rating": 4, "comment": "Fast shipping", "review_ts": "2024-07-02T00:00:00"}
+{"review_id": "R00379", "product_id": "P0037", "customer_id": "C0329", "rating": 3, "comment": "Fast shipping", "review_ts": "2024-06-06T00:00:00"}
+{"review_id": "R00380", "product_id": "P0062", "customer_id": "C0490", "rating": 4, "comment": "Would buy again", "review_ts": "2024-01-20T00:00:00"}
+{"review_id": "R00381", "product_id": "P0023", "customer_id": "C0140", "rating": 2, "comment": "", "review_ts": "2023-12-15T00:00:00"}
+{"review_id": "R00382", "product_id": "P0134", "customer_id": "C0471", "rating": 5, "comment": "Great!", "review_ts": "2023-12-13T00:00:00"}
+{"review_id": "R00383", "product_id": "P0002", "customer_id": "C0463", "rating": 2, "comment": "Great!", "review_ts": "2024-09-02T00:00:00"}
+{"review_id": "R00384", "product_id": "P0016", "customer_id": "C0465", "rating": 2, "comment": "Would buy again", "review_ts": "2023-09-14T00:00:00"}
+{"review_id": "R00385", "product_id": "P0136", "customer_id": "C0308", "rating": 4, "comment": "Not as expected", "review_ts": "2024-02-01T00:00:00"}
+{"review_id": "R00386", "product_id": "P0110", "customer_id": "C0392", "rating": 4, "comment": "Not as expected", "review_ts": "2023-04-11T00:00:00"}
+{"review_id": "R00387", "product_id": "P0055", "customer_id": "C0585", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-07-02T00:00:00"}
+{"review_id": "R00388", "product_id": "P0133", "customer_id": "C0387", "rating": 2, "comment": "Not as expected", "review_ts": "2024-07-11T00:00:00"}
+{"review_id": "R00389", "product_id": "P0148", "customer_id": "C0444", "rating": 3, "comment": "Fast shipping", "review_ts": "2024-05-16T00:00:00"}
+{"review_id": "R00390", "product_id": "P0006", "customer_id": "C0118", "rating": null, "comment": "Great!", "review_ts": "2023-07-05T00:00:00"}
+{"review_id": "R00391", "product_id": "P0022", "customer_id": "C0282", "rating": 2, "comment": "", "review_ts": "2024-01-03T00:00:00"}
+{"review_id": "R00392", "product_id": "P0049", "customer_id": "C0224", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-06-15T00:00:00"}
+{"review_id": "R00393", "product_id": "P0114", "customer_id": "C0169", "rating": 5, "comment": "", "review_ts": "2023-06-02T00:00:00"}
+{"review_id": "R00394", "product_id": "P0137", "customer_id": "C0495", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-03-02T00:00:00"}
+{"review_id": "R00395", "product_id": "P0095", "customer_id": "C0373", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-02-25T00:00:00"}
+{"review_id": "R00396", "product_id": "P0045", "customer_id": "C0540", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-10-16T00:00:00"}
+{"review_id": "R00397", "product_id": "P0079", "customer_id": "C0446", "rating": 4, "comment": "Great!", "review_ts": "2024-01-29T00:00:00"}
+{"review_id": "R00398", "product_id": "P0072", "customer_id": "C0527", "rating": 1, "comment": "Not as expected", "review_ts": "2023-09-03T00:00:00"}
+{"review_id": "R00399", "product_id": "P0087", "customer_id": "C0484", "rating": 5, "comment": "Not as expected", "review_ts": "2024-09-24T00:00:00"}
+{"review_id": "R00400", "product_id": "P0040", "customer_id": "C0262", "rating": null, "comment": "Fast shipping", "review_ts": "2023-05-14T00:00:00"}
+{"review_id": "R00401", "product_id": "P0060", "customer_id": "C0317", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-07-13T00:00:00"}
+{"review_id": "R00402", "product_id": "P0133", "customer_id": "C0306", "rating": 2, "comment": "Would buy again", "review_ts": "2023-09-11T00:00:00"}
+{"review_id": "R00403", "product_id": "P0058", "customer_id": "C0380", "rating": 1, "comment": "Broken on arrival", "review_ts": "2023-05-29T00:00:00"}
+{"review_id": "R00404", "product_id": "P0109", "customer_id": "C0196", "rating": 5, "comment": "", "review_ts": "2023-06-01T00:00:00"}
+{"review_id": "R00405", "product_id": "P0059", "customer_id": "C0110", "rating": 5, "comment": "Not as expected", "review_ts": "2024-08-22T00:00:00"}
+{"review_id": "R00406", "product_id": "P0076", "customer_id": "C0455", "rating": null, "comment": "", "review_ts": "2024-05-29T00:00:00"}
+{"review_id": "R00407", "product_id": "P0121", "customer_id": "C0273", "rating": 3, "comment": "Fast shipping", "review_ts": "2024-01-04T00:00:00"}
+{"review_id": "R00408", "product_id": "P0108", "customer_id": "C0016", "rating": 2, "comment": "", "review_ts": "2023-05-05T00:00:00"}
+{"review_id": "R00409", "product_id": "P0139", "customer_id": "C0399", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-01-05T00:00:00"}
+{"review_id": "R00410", "product_id": "P0150", "customer_id": "C0182", "rating": 4, "comment": "Would buy again", "review_ts": "2024-09-03T00:00:00"}
+{"review_id": "R00411", "product_id": "P0080", "customer_id": "C0500", "rating": 1, "comment": "", "review_ts": "2023-06-30T00:00:00"}
+{"review_id": "R00412", "product_id": "P0106", "customer_id": "C0289", "rating": 3, "comment": "Fast shipping", "review_ts": "2024-06-16T00:00:00"}
+{"review_id": "R00413", "product_id": "P0034", "customer_id": "C0446", "rating": 4, "comment": "Great!", "review_ts": "2024-08-02T00:00:00"}
+{"review_id": "R00414", "product_id": "P0089", "customer_id": "C0587", "rating": 1, "comment": "", "review_ts": "2023-05-05T00:00:00"}
+{"review_id": "R00415", "product_id": "P0068", "customer_id": "C0111", "rating": null, "comment": "Not as expected", "review_ts": "2024-02-13T00:00:00"}
+{"review_id": "R00416", "product_id": "P0077", "customer_id": "C0304", "rating": null, "comment": "Broken on arrival", "review_ts": "2024-04-27T00:00:00"}
+{"review_id": "R00417", "product_id": "P0042", "customer_id": "C0562", "rating": 1, "comment": "Great!", "review_ts": "2024-07-09T00:00:00"}
+{"review_id": "R00418", "product_id": "P0129", "customer_id": "C0278", "rating": 3, "comment": "Great!", "review_ts": "2023-04-30T00:00:00"}
+{"review_id": "R00419", "product_id": "P0066", "customer_id": "C0433", "rating": null, "comment": "Great!", "review_ts": "2024-07-23T00:00:00"}
+{"review_id": "R00420", "product_id": "P0046", "customer_id": "C0198", "rating": 1, "comment": "", "review_ts": "2024-08-28T00:00:00"}
+{"review_id": "R00421", "product_id": "P0097", "customer_id": "C0110", "rating": 4, "comment": "", "review_ts": "2023-05-27T00:00:00"}
+{"review_id": "R00422", "product_id": "P0091", "customer_id": "C0496", "rating": 5, "comment": "Not as expected", "review_ts": "2024-11-30T00:00:00"}
+{"review_id": "R00423", "product_id": "P0133", "customer_id": "C0253", "rating": null, "comment": "Fast shipping", "review_ts": "2023-06-24T00:00:00"}
+{"review_id": "R00424", "product_id": "P0114", "customer_id": "C0118", "rating": null, "comment": "Would buy again", "review_ts": "2023-01-30T00:00:00"}
+{"review_id": "R00425", "product_id": "P0068", "customer_id": "C0353", "rating": 3, "comment": "Would buy again", "review_ts": "2023-04-04T00:00:00"}
+{"review_id": "R00426", "product_id": "P0045", "customer_id": "C0527", "rating": 5, "comment": "Would buy again", "review_ts": "2024-01-17T00:00:00"}
+{"review_id": "R00427", "product_id": "P0030", "customer_id": "C0161", "rating": 1, "comment": "", "review_ts": "2024-11-21T00:00:00"}
+{"review_id": "R00428", "product_id": "P0123", "customer_id": "C0300", "rating": null, "comment": "Fast shipping", "review_ts": "2024-03-30T00:00:00"}
+{"review_id": "R00429", "product_id": "P0096", "customer_id": "C0410", "rating": null, "comment": "", "review_ts": "2023-08-23T00:00:00"}
+{"review_id": "R00430", "product_id": "P0101", "customer_id": "C0335", "rating": 1, "comment": "Would buy again", "review_ts": "2023-08-11T00:00:00"}
+{"review_id": "R00431", "product_id": "P0121", "customer_id": "C0025", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-02-13T00:00:00"}
+{"review_id": "R00432", "product_id": "P0042", "customer_id": "C0192", "rating": 4, "comment": "Great!", "review_ts": "2024-11-02T00:00:00"}
+{"review_id": "R00433", "product_id": "P0042", "customer_id": "C0355", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-06-05T00:00:00"}
+{"review_id": "R00434", "product_id": "P0048", "customer_id": "C0111", "rating": null, "comment": "Not as expected", "review_ts": "2023-01-08T00:00:00"}
+{"review_id": "R00435", "product_id": "P0057", "customer_id": "C0359", "rating": 5, "comment": "Great!", "review_ts": "2023-09-04T00:00:00"}
+{"review_id": "R00436", "product_id": "P0114", "customer_id": "C0323", "rating": 1, "comment": "Would buy again", "review_ts": "2024-11-29T00:00:00"}
+{"review_id": "R00437", "product_id": "P0111", "customer_id": "C0181", "rating": null, "comment": "Fast shipping", "review_ts": "2024-01-19T00:00:00"}
+{"review_id": "R00438", "product_id": "P0039", "customer_id": "C0258", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-01-06T00:00:00"}
+{"review_id": "R00439", "product_id": "P0130", "customer_id": "C0550", "rating": 4, "comment": "Not as expected", "review_ts": "2023-08-27T00:00:00"}
+{"review_id": "R00440", "product_id": "P0093", "customer_id": "C0578", "rating": 1, "comment": "Would buy again", "review_ts": "2024-11-13T00:00:00"}
+{"review_id": "R00441", "product_id": "P0132", "customer_id": "C0501", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-06-10T00:00:00"}
+{"review_id": "R00442", "product_id": "P0044", "customer_id": "C0583", "rating": 2, "comment": "Would buy again", "review_ts": "2024-03-25T00:00:00"}
+{"review_id": "R00443", "product_id": "P0124", "customer_id": "C0035", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-10-07T00:00:00"}
+{"review_id": "R00444", "product_id": "P0150", "customer_id": "C0536", "rating": 3, "comment": "Fast shipping", "review_ts": "2024-07-27T00:00:00"}
+{"review_id": "R00445", "product_id": "P0082", "customer_id": "C0308", "rating": 3, "comment": "Not as expected", "review_ts": "2023-06-11T00:00:00"}
+{"review_id": "R00446", "product_id": "P0010", "customer_id": "C0314", "rating": 3, "comment": "", "review_ts": "2024-05-29T00:00:00"}
+{"review_id": "R00447", "product_id": "P0116", "customer_id": "C0177", "rating": 5, "comment": "Great!", "review_ts": "2023-07-10T00:00:00"}
+{"review_id": "R00448", "product_id": "P0130", "customer_id": "C0547", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-09-02T00:00:00"}
+{"review_id": "R00449", "product_id": "P0064", "customer_id": "C0358", "rating": null, "comment": "", "review_ts": "2023-08-30T00:00:00"}
+{"review_id": "R00450", "product_id": "P0117", "customer_id": "C0030", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-08-09T00:00:00"}
+{"review_id": "R00451", "product_id": "P0038", "customer_id": "C0205", "rating": 1, "comment": "Great!", "review_ts": "2024-10-03T00:00:00"}
+{"review_id": "R00452", "product_id": "P0020", "customer_id": "C0427", "rating": 1, "comment": "Would buy again", "review_ts": "2023-12-29T00:00:00"}
+{"review_id": "R00453", "product_id": "P0092", "customer_id": "C0462", "rating": 4, "comment": "Not as expected", "review_ts": "2023-05-16T00:00:00"}
+{"review_id": "R00454", "product_id": "P0096", "customer_id": "C0120", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-05-10T00:00:00"}
+{"review_id": "R00455", "product_id": "P0019", "customer_id": "C0341", "rating": null, "comment": "Broken on arrival", "review_ts": "2024-10-12T00:00:00"}
+{"review_id": "R00456", "product_id": "P0122", "customer_id": "C0264", "rating": 5, "comment": "", "review_ts": "2024-01-21T00:00:00"}
+{"review_id": "R00457", "product_id": "P0053", "customer_id": "C0481", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-02-22T00:00:00"}
+{"review_id": "R00458", "product_id": "P0061", "customer_id": "C0017", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-02-07T00:00:00"}
+{"review_id": "R00459", "product_id": "P0063", "customer_id": "C0500", "rating": 4, "comment": "", "review_ts": "2023-02-25T00:00:00"}
+{"review_id": "R00460", "product_id": "P0033", "customer_id": "C0377", "rating": null, "comment": "Would buy again", "review_ts": "2024-04-10T00:00:00"}
+{"review_id": "R00461", "product_id": "P0030", "customer_id": "C0442", "rating": 3, "comment": "Would buy again", "review_ts": "2023-09-22T00:00:00"}
+{"review_id": "R00462", "product_id": "P0006", "customer_id": "C0326", "rating": 2, "comment": "Great!", "review_ts": "2024-06-28T00:00:00"}
+{"review_id": "R00463", "product_id": "P0142", "customer_id": "C0394", "rating": 3, "comment": "Would buy again", "review_ts": "2023-11-30T00:00:00"}
+{"review_id": "R00464", "product_id": "P0047", "customer_id": "C0185", "rating": 5, "comment": "Would buy again", "review_ts": "2024-10-16T00:00:00"}
+{"review_id": "R00465", "product_id": "P0121", "customer_id": "C0381", "rating": null, "comment": "Great!", "review_ts": "2024-04-01T00:00:00"}
+{"review_id": "R00466", "product_id": "P0041", "customer_id": "C0448", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-03-01T00:00:00"}
+{"review_id": "R00467", "product_id": "P0003", "customer_id": "C0241", "rating": 3, "comment": "Great!", "review_ts": "2023-01-01T00:00:00"}
+{"review_id": "R00468", "product_id": "P0096", "customer_id": "C0545", "rating": 5, "comment": "Not as expected", "review_ts": "2024-06-24T00:00:00"}
+{"review_id": "R00469", "product_id": "P0116", "customer_id": "C0029", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-04-01T00:00:00"}
+{"review_id": "R00470", "product_id": "P0123", "customer_id": "C0087", "rating": 5, "comment": "Would buy again", "review_ts": "2023-10-03T00:00:00"}
+{"review_id": "R00471", "product_id": "P0145", "customer_id": "C0431", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-01-16T00:00:00"}
+{"review_id": "R00472", "product_id": "P0006", "customer_id": "C0587", "rating": 4, "comment": "Great!", "review_ts": "2024-03-13T00:00:00"}
+{"review_id": "R00473", "product_id": "P0069", "customer_id": "C0253", "rating": 1, "comment": "", "review_ts": "2024-04-29T00:00:00"}
+{"review_id": "R00474", "product_id": "P0019", "customer_id": "C0172", "rating": null, "comment": "Fast shipping", "review_ts": "2023-08-23T00:00:00"}
+{"review_id": "R00475", "product_id": "P0074", "customer_id": "C0406", "rating": 1, "comment": "Great!", "review_ts": "2023-11-29T00:00:00"}
+{"review_id": "R00476", "product_id": "P0085", "customer_id": "C0327", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-10-06T00:00:00"}
+{"review_id": "R00477", "product_id": "P0008", "customer_id": "C0136", "rating": 4, "comment": "Would buy again", "review_ts": "2024-11-26T00:00:00"}
+{"review_id": "R00478", "product_id": "P0048", "customer_id": "C0054", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-07-19T00:00:00"}
+{"review_id": "R00479", "product_id": "P0017", "customer_id": "C0115", "rating": 2, "comment": "Great!", "review_ts": "2024-06-10T00:00:00"}
+{"review_id": "R00480", "product_id": "P0059", "customer_id": "C0577", "rating": 3, "comment": "Not as expected", "review_ts": "2023-04-24T00:00:00"}
+{"review_id": "R00481", "product_id": "P0020", "customer_id": "C0420", "rating": null, "comment": "Would buy again", "review_ts": "2023-11-28T00:00:00"}
+{"review_id": "R00482", "product_id": "P0032", "customer_id": "C0344", "rating": 2, "comment": "Not as expected", "review_ts": "2023-07-30T00:00:00"}
+{"review_id": "R00483", "product_id": "P0068", "customer_id": "C0320", "rating": 1, "comment": "Would buy again", "review_ts": "2024-08-01T00:00:00"}
+{"review_id": "R00484", "product_id": "P0109", "customer_id": "C0030", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-03-18T00:00:00"}
+{"review_id": "R00485", "product_id": "P0056", "customer_id": "C0472", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-04-23T00:00:00"}
+{"review_id": "R00486", "product_id": "P0004", "customer_id": "C0545", "rating": 1, "comment": "Broken on arrival", "review_ts": "2023-01-11T00:00:00"}
+{"review_id": "R00487", "product_id": "P0110", "customer_id": "C0053", "rating": 3, "comment": "", "review_ts": "2023-03-03T00:00:00"}
+{"review_id": "R00488", "product_id": "P0108", "customer_id": "C0284", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-04-08T00:00:00"}
+{"review_id": "R00489", "product_id": "P0023", "customer_id": "C0525", "rating": 2, "comment": "Not as expected", "review_ts": "2024-07-18T00:00:00"}
+{"review_id": "R00490", "product_id": "P0071", "customer_id": "C0023", "rating": null, "comment": "", "review_ts": "2023-04-10T00:00:00"}
+{"review_id": "R00491", "product_id": "P0076", "customer_id": "C0275", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-09-27T00:00:00"}
+{"review_id": "R00492", "product_id": "P0006", "customer_id": "C0267", "rating": 2, "comment": "Would buy again", "review_ts": "2024-08-01T00:00:00"}
+{"review_id": "R00493", "product_id": "P0050", "customer_id": "C0313", "rating": 2, "comment": "Great!", "review_ts": "2024-04-10T00:00:00"}
+{"review_id": "R00494", "product_id": "P0049", "customer_id": "C0145", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-04-22T00:00:00"}
+{"review_id": "R00495", "product_id": "P0090", "customer_id": "C0350", "rating": 2, "comment": "Not as expected", "review_ts": "2023-10-25T00:00:00"}
+{"review_id": "R00496", "product_id": "P0021", "customer_id": "C0067", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-03-22T00:00:00"}
+{"review_id": "R00497", "product_id": "P0076", "customer_id": "C0537", "rating": 1, "comment": "Not as expected", "review_ts": "2024-02-29T00:00:00"}
+{"review_id": "R00498", "product_id": "P0141", "customer_id": "C0550", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-01-14T00:00:00"}
+{"review_id": "R00499", "product_id": "P0139", "customer_id": "C0217", "rating": 3, "comment": "", "review_ts": "2023-06-28T00:00:00"}
+{"review_id": "R00500", "product_id": "P0121", "customer_id": "C0235", "rating": 5, "comment": "Not as expected", "review_ts": "2024-10-27T00:00:00"}
+{"review_id": "R00501", "product_id": "P0105", "customer_id": "C0485", "rating": 5, "comment": "Fast shipping", "review_ts": "2024-02-22T00:00:00"}
+{"review_id": "R00502", "product_id": "P0007", "customer_id": "C0397", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-11-29T00:00:00"}
+{"review_id": "R00503", "product_id": "P0104", "customer_id": "C0494", "rating": null, "comment": "Fast shipping", "review_ts": "2024-03-25T00:00:00"}
+{"review_id": "R00504", "product_id": "P0014", "customer_id": "C0590", "rating": 2, "comment": "Great!", "review_ts": "2024-09-26T00:00:00"}
+{"review_id": "R00505", "product_id": "P0096", "customer_id": "C0476", "rating": 5, "comment": "", "review_ts": "2024-08-26T00:00:00"}
+{"review_id": "R00506", "product_id": "P0110", "customer_id": "C0323", "rating": 5, "comment": "Great!", "review_ts": "2023-07-04T00:00:00"}
+{"review_id": "R00507", "product_id": "P0063", "customer_id": "C0577", "rating": null, "comment": "Fast shipping", "review_ts": "2023-09-20T00:00:00"}
+{"review_id": "R00508", "product_id": "P0066", "customer_id": "C0600", "rating": 2, "comment": "Great!", "review_ts": "2024-04-19T00:00:00"}
+{"review_id": "R00509", "product_id": "P0142", "customer_id": "C0303", "rating": 3, "comment": "Broken on arrival", "review_ts": "2024-05-29T00:00:00"}
+{"review_id": "R00510", "product_id": "P0068", "customer_id": "C0246", "rating": 5, "comment": "", "review_ts": "2023-03-05T00:00:00"}
+{"review_id": "R00511", "product_id": "P0044", "customer_id": "C0230", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-04-30T00:00:00"}
+{"review_id": "R00512", "product_id": "P0030", "customer_id": "C0304", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-12-04T00:00:00"}
+{"review_id": "R00513", "product_id": "P0009", "customer_id": "C0149", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-01-14T00:00:00"}
+{"review_id": "R00514", "product_id": "P0020", "customer_id": "C0077", "rating": 5, "comment": "Not as expected", "review_ts": "2024-03-31T00:00:00"}
+{"review_id": "R00515", "product_id": "P0105", "customer_id": "C0599", "rating": 1, "comment": "Great!", "review_ts": "2024-06-06T00:00:00"}
+{"review_id": "R00516", "product_id": "P0019", "customer_id": "C0531", "rating": null, "comment": "Would buy again", "review_ts": "2024-07-06T00:00:00"}
+{"review_id": "R00517", "product_id": "P0025", "customer_id": "C0217", "rating": 4, "comment": "Would buy again", "review_ts": "2023-02-26T00:00:00"}
+{"review_id": "R00518", "product_id": "P0029", "customer_id": "C0111", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-04-15T00:00:00"}
+{"review_id": "R00519", "product_id": "P0001", "customer_id": "C0492", "rating": null, "comment": "", "review_ts": "2023-10-02T00:00:00"}
+{"review_id": "R00520", "product_id": "P0071", "customer_id": "C0249", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-08-24T00:00:00"}
+{"review_id": "R00521", "product_id": "P0035", "customer_id": "C0342", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-05-18T00:00:00"}
+{"review_id": "R00522", "product_id": "P0023", "customer_id": "C0064", "rating": 5, "comment": "", "review_ts": "2023-12-06T00:00:00"}
+{"review_id": "R00523", "product_id": "P0020", "customer_id": "C0087", "rating": 1, "comment": "Would buy again", "review_ts": "2023-10-07T00:00:00"}
+{"review_id": "R00524", "product_id": "P0093", "customer_id": "C0132", "rating": 4, "comment": "Fast shipping", "review_ts": "2024-06-21T00:00:00"}
+{"review_id": "R00525", "product_id": "P0034", "customer_id": "C0071", "rating": 4, "comment": "Fast shipping", "review_ts": "2024-01-01T00:00:00"}
+{"review_id": "R00526", "product_id": "P0023", "customer_id": "C0294", "rating": 4, "comment": "Not as expected", "review_ts": "2024-11-27T00:00:00"}
+{"review_id": "R00527", "product_id": "P0003", "customer_id": "C0001", "rating": 1, "comment": "Would buy again", "review_ts": "2024-06-08T00:00:00"}
+{"review_id": "R00528", "product_id": "P0139", "customer_id": "C0505", "rating": null, "comment": "Broken on arrival", "review_ts": "2024-10-19T00:00:00"}
+{"review_id": "R00529", "product_id": "P0108", "customer_id": "C0292", "rating": null, "comment": "Great!", "review_ts": "2023-11-12T00:00:00"}
+{"review_id": "R00530", "product_id": "P0062", "customer_id": "C0443", "rating": 4, "comment": "Not as expected", "review_ts": "2023-06-13T00:00:00"}
+{"review_id": "R00531", "product_id": "P0046", "customer_id": "C0491", "rating": 3, "comment": "Fast shipping", "review_ts": "2024-03-15T00:00:00"}
+{"review_id": "R00532", "product_id": "P0149", "customer_id": "C0189", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-07-31T00:00:00"}
+{"review_id": "R00533", "product_id": "P0060", "customer_id": "C0347", "rating": 3, "comment": "Would buy again", "review_ts": "2024-07-25T00:00:00"}
+{"review_id": "R00534", "product_id": "P0019", "customer_id": "C0045", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-07-25T00:00:00"}
+{"review_id": "R00535", "product_id": "P0037", "customer_id": "C0449", "rating": 4, "comment": "", "review_ts": "2023-03-15T00:00:00"}
+{"review_id": "R00536", "product_id": "P0011", "customer_id": "C0233", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-04-07T00:00:00"}
+{"review_id": "R00537", "product_id": "P0064", "customer_id": "C0089", "rating": 1, "comment": "Great!", "review_ts": "2023-06-24T00:00:00"}
+{"review_id": "R00538", "product_id": "P0082", "customer_id": "C0192", "rating": 4, "comment": "", "review_ts": "2023-11-23T00:00:00"}
+{"review_id": "R00539", "product_id": "P0149", "customer_id": "C0217", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-07-10T00:00:00"}
+{"review_id": "R00540", "product_id": "P0081", "customer_id": "C0115", "rating": null, "comment": "Fast shipping", "review_ts": "2024-11-14T00:00:00"}
+{"review_id": "R00541", "product_id": "P0018", "customer_id": "C0290", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-02-10T00:00:00"}
+{"review_id": "R00542", "product_id": "P0006", "customer_id": "C0479", "rating": 3, "comment": "Broken on arrival", "review_ts": "2024-04-29T00:00:00"}
+{"review_id": "R00543", "product_id": "P0035", "customer_id": "C0224", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-09-29T00:00:00"}
+{"review_id": "R00544", "product_id": "P0134", "customer_id": "C0521", "rating": 1, "comment": "Great!", "review_ts": "2024-06-21T00:00:00"}
+{"review_id": "R00545", "product_id": "P0130", "customer_id": "C0143", "rating": 1, "comment": "", "review_ts": "2023-02-18T00:00:00"}
+{"review_id": "R00546", "product_id": "P0113", "customer_id": "C0369", "rating": null, "comment": "Great!", "review_ts": "2023-11-28T00:00:00"}
+{"review_id": "R00547", "product_id": "P0148", "customer_id": "C0356", "rating": 3, "comment": "Would buy again", "review_ts": "2024-11-05T00:00:00"}
+{"review_id": "R00548", "product_id": "P0119", "customer_id": "C0046", "rating": 3, "comment": "Not as expected", "review_ts": "2024-01-13T00:00:00"}
+{"review_id": "R00549", "product_id": "P0058", "customer_id": "C0424", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-08-30T00:00:00"}
+{"review_id": "R00550", "product_id": "P0105", "customer_id": "C0462", "rating": null, "comment": "Not as expected", "review_ts": "2023-05-15T00:00:00"}
+{"review_id": "R00551", "product_id": "P0096", "customer_id": "C0265", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-01-27T00:00:00"}
+{"review_id": "R00552", "product_id": "P0008", "customer_id": "C0470", "rating": 1, "comment": "Not as expected", "review_ts": "2024-07-14T00:00:00"}
+{"review_id": "R00553", "product_id": "P0121", "customer_id": "C0212", "rating": 4, "comment": "Not as expected", "review_ts": "2023-08-03T00:00:00"}
+{"review_id": "R00554", "product_id": "P0141", "customer_id": "C0030", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-04-30T00:00:00"}
+{"review_id": "R00555", "product_id": "P0040", "customer_id": "C0116", "rating": 4, "comment": "", "review_ts": "2024-03-22T00:00:00"}
+{"review_id": "R00556", "product_id": "P0047", "customer_id": "C0586", "rating": 4, "comment": "", "review_ts": "2024-01-31T00:00:00"}
+{"review_id": "R00557", "product_id": "P0134", "customer_id": "C0180", "rating": 4, "comment": "Not as expected", "review_ts": "2023-09-29T00:00:00"}
+{"review_id": "R00558", "product_id": "P0044", "customer_id": "C0508", "rating": 5, "comment": "Great!", "review_ts": "2024-10-31T00:00:00"}
+{"review_id": "R00559", "product_id": "P0068", "customer_id": "C0169", "rating": 4, "comment": "Would buy again", "review_ts": "2023-11-29T00:00:00"}
+{"review_id": "R00560", "product_id": "P0075", "customer_id": "C0285", "rating": 4, "comment": "Great!", "review_ts": "2024-10-07T00:00:00"}
+{"review_id": "R00561", "product_id": "P0104", "customer_id": "C0490", "rating": 5, "comment": "Would buy again", "review_ts": "2023-12-06T00:00:00"}
+{"review_id": "R00562", "product_id": "P0130", "customer_id": "C0588", "rating": 5, "comment": "Not as expected", "review_ts": "2023-05-30T00:00:00"}
+{"review_id": "R00563", "product_id": "P0019", "customer_id": "C0077", "rating": null, "comment": "", "review_ts": "2023-08-23T00:00:00"}
+{"review_id": "R00564", "product_id": "P0049", "customer_id": "C0033", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-05-10T00:00:00"}
+{"review_id": "R00565", "product_id": "P0025", "customer_id": "C0462", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-08-04T00:00:00"}
+{"review_id": "R00566", "product_id": "P0077", "customer_id": "C0516", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-09-15T00:00:00"}
+{"review_id": "R00567", "product_id": "P0090", "customer_id": "C0015", "rating": 3, "comment": "Fast shipping", "review_ts": "2024-02-29T00:00:00"}
+{"review_id": "R00568", "product_id": "P0044", "customer_id": "C0253", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-10-26T00:00:00"}
+{"review_id": "R00569", "product_id": "P0075", "customer_id": "C0097", "rating": 4, "comment": "Not as expected", "review_ts": "2023-04-04T00:00:00"}
+{"review_id": "R00570", "product_id": "P0109", "customer_id": "C0377", "rating": 3, "comment": "Great!", "review_ts": "2024-05-13T00:00:00"}
+{"review_id": "R00571", "product_id": "P0015", "customer_id": "C0053", "rating": 1, "comment": "Not as expected", "review_ts": "2023-08-13T00:00:00"}
+{"review_id": "R00572", "product_id": "P0113", "customer_id": "C0569", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-03-27T00:00:00"}
+{"review_id": "R00573", "product_id": "P0069", "customer_id": "C0125", "rating": 1, "comment": "Not as expected", "review_ts": "2023-02-10T00:00:00"}
+{"review_id": "R00574", "product_id": "P0109", "customer_id": "C0385", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-11-21T00:00:00"}
+{"review_id": "R00575", "product_id": "P0129", "customer_id": "C0027", "rating": null, "comment": "Would buy again", "review_ts": "2023-11-30T00:00:00"}
+{"review_id": "R00576", "product_id": "P0108", "customer_id": "C0576", "rating": 1, "comment": "Not as expected", "review_ts": "2024-07-26T00:00:00"}
+{"review_id": "R00577", "product_id": "P0149", "customer_id": "C0098", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-02-23T00:00:00"}
+{"review_id": "R00578", "product_id": "P0129", "customer_id": "C0491", "rating": 5, "comment": "Great!", "review_ts": "2024-03-25T00:00:00"}
+{"review_id": "R00579", "product_id": "P0037", "customer_id": "C0270", "rating": 2, "comment": "Great!", "review_ts": "2024-05-03T00:00:00"}
+{"review_id": "R00580", "product_id": "P0085", "customer_id": "C0231", "rating": 1, "comment": "Would buy again", "review_ts": "2024-03-31T00:00:00"}
+{"review_id": "R00581", "product_id": "P0119", "customer_id": "C0145", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-09-04T00:00:00"}
+{"review_id": "R00582", "product_id": "P0109", "customer_id": "C0382", "rating": 4, "comment": "Not as expected", "review_ts": "2023-10-13T00:00:00"}
+{"review_id": "R00583", "product_id": "P0081", "customer_id": "C0506", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-03-05T00:00:00"}
+{"review_id": "R00584", "product_id": "P0023", "customer_id": "C0317", "rating": null, "comment": "Great!", "review_ts": "2023-02-15T00:00:00"}
+{"review_id": "R00585", "product_id": "P0136", "customer_id": "C0363", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-10-05T00:00:00"}
+{"review_id": "R00586", "product_id": "P0148", "customer_id": "C0068", "rating": null, "comment": "Fast shipping", "review_ts": "2024-02-03T00:00:00"}
+{"review_id": "R00587", "product_id": "P0090", "customer_id": "C0068", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-08-21T00:00:00"}
+{"review_id": "R00588", "product_id": "P0044", "customer_id": "C0111", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-03-08T00:00:00"}
+{"review_id": "R00589", "product_id": "P0082", "customer_id": "C0141", "rating": 4, "comment": "Great!", "review_ts": "2024-05-09T00:00:00"}
+{"review_id": "R00590", "product_id": "P0032", "customer_id": "C0497", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-03-03T00:00:00"}
+{"review_id": "R00591", "product_id": "P0150", "customer_id": "C0417", "rating": 5, "comment": "Not as expected", "review_ts": "2024-04-30T00:00:00"}
+{"review_id": "R00592", "product_id": "P0036", "customer_id": "C0028", "rating": 1, "comment": "Broken on arrival", "review_ts": "2023-09-19T00:00:00"}
+{"review_id": "R00593", "product_id": "P0139", "customer_id": "C0308", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-03-22T00:00:00"}
+{"review_id": "R00594", "product_id": "P0064", "customer_id": "C0217", "rating": 2, "comment": "", "review_ts": "2023-11-30T00:00:00"}
+{"review_id": "R00595", "product_id": "P0142", "customer_id": "C0092", "rating": null, "comment": "Would buy again", "review_ts": "2024-02-22T00:00:00"}
+{"review_id": "R00596", "product_id": "P0054", "customer_id": "C0249", "rating": 5, "comment": "Great!", "review_ts": "2023-08-22T00:00:00"}
+{"review_id": "R00597", "product_id": "P0005", "customer_id": "C0036", "rating": 3, "comment": "", "review_ts": "2023-09-05T00:00:00"}
+{"review_id": "R00598", "product_id": "P0099", "customer_id": "C0143", "rating": 3, "comment": "", "review_ts": "2024-02-05T00:00:00"}
+{"review_id": "R00599", "product_id": "P0146", "customer_id": "C0115", "rating": null, "comment": "Fast shipping", "review_ts": "2023-09-09T00:00:00"}
+{"review_id": "R00600", "product_id": "P0062", "customer_id": "C0008", "rating": 3, "comment": "Would buy again", "review_ts": "2023-03-24T00:00:00"}
+{"review_id": "R00601", "product_id": "P0138", "customer_id": "C0484", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-06-19T00:00:00"}
+{"review_id": "R00602", "product_id": "P0073", "customer_id": "C0004", "rating": 3, "comment": "Broken on arrival", "review_ts": "2024-01-23T00:00:00"}
+{"review_id": "R00603", "product_id": "P0024", "customer_id": "C0029", "rating": 1, "comment": "Great!", "review_ts": "2024-03-21T00:00:00"}
+{"review_id": "R00604", "product_id": "P0017", "customer_id": "C0557", "rating": 3, "comment": "", "review_ts": "2024-06-03T00:00:00"}
+{"review_id": "R00605", "product_id": "P0018", "customer_id": "C0367", "rating": 1, "comment": "Would buy again", "review_ts": "2024-09-19T00:00:00"}
+{"review_id": "R00606", "product_id": "P0052", "customer_id": "C0148", "rating": 5, "comment": "", "review_ts": "2024-07-08T00:00:00"}
+{"review_id": "R00607", "product_id": "P0111", "customer_id": "C0317", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-01-30T00:00:00"}
+{"review_id": "R00608", "product_id": "P0029", "customer_id": "C0293", "rating": 3, "comment": "Great!", "review_ts": "2024-11-17T00:00:00"}
+{"review_id": "R00609", "product_id": "P0020", "customer_id": "C0538", "rating": 1, "comment": "Would buy again", "review_ts": "2024-05-06T00:00:00"}
+{"review_id": "R00610", "product_id": "P0144", "customer_id": "C0355", "rating": 1, "comment": "Not as expected", "review_ts": "2024-04-20T00:00:00"}
+{"review_id": "R00611", "product_id": "P0078", "customer_id": "C0202", "rating": 4, "comment": "", "review_ts": "2023-03-18T00:00:00"}
+{"review_id": "R00612", "product_id": "P0046", "customer_id": "C0332", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-06-20T00:00:00"}
+{"review_id": "R00613", "product_id": "P0100", "customer_id": "C0098", "rating": 5, "comment": "Would buy again", "review_ts": "2024-11-23T00:00:00"}
+{"review_id": "R00614", "product_id": "P0021", "customer_id": "C0130", "rating": 3, "comment": "Great!", "review_ts": "2023-12-02T00:00:00"}
+{"review_id": "R00615", "product_id": "P0041", "customer_id": "C0067", "rating": 2, "comment": "Great!", "review_ts": "2024-10-30T00:00:00"}
+{"review_id": "R00616", "product_id": "P0062", "customer_id": "C0210", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-07-31T00:00:00"}
+{"review_id": "R00617", "product_id": "P0005", "customer_id": "C0046", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-02-09T00:00:00"}
+{"review_id": "R00618", "product_id": "P0061", "customer_id": "C0159", "rating": 5, "comment": "Would buy again", "review_ts": "2024-03-30T00:00:00"}
+{"review_id": "R00619", "product_id": "P0092", "customer_id": "C0447", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-04-17T00:00:00"}
+{"review_id": "R00620", "product_id": "P0095", "customer_id": "C0422", "rating": null, "comment": "", "review_ts": "2024-10-07T00:00:00"}
+{"review_id": "R00621", "product_id": "P0076", "customer_id": "C0103", "rating": 1, "comment": "Would buy again", "review_ts": "2024-08-27T00:00:00"}
+{"review_id": "R00622", "product_id": "P0079", "customer_id": "C0361", "rating": 2, "comment": "Great!", "review_ts": "2024-05-05T00:00:00"}
+{"review_id": "R00623", "product_id": "P0033", "customer_id": "C0330", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-01-07T00:00:00"}
+{"review_id": "R00624", "product_id": "P0050", "customer_id": "C0480", "rating": 4, "comment": "Fast shipping", "review_ts": "2024-08-21T00:00:00"}
+{"review_id": "R00625", "product_id": "P0077", "customer_id": "C0080", "rating": 2, "comment": "Not as expected", "review_ts": "2023-01-24T00:00:00"}
+{"review_id": "R00626", "product_id": "P0132", "customer_id": "C0250", "rating": null, "comment": "Fast shipping", "review_ts": "2024-01-05T00:00:00"}
+{"review_id": "R00627", "product_id": "P0040", "customer_id": "C0135", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-10-25T00:00:00"}
+{"review_id": "R00628", "product_id": "P0066", "customer_id": "C0125", "rating": 2, "comment": "Would buy again", "review_ts": "2023-12-16T00:00:00"}
+{"review_id": "R00629", "product_id": "P0019", "customer_id": "C0254", "rating": 1, "comment": "Not as expected", "review_ts": "2024-02-06T00:00:00"}
+{"review_id": "R00630", "product_id": "P0052", "customer_id": "C0147", "rating": 3, "comment": "Fast shipping", "review_ts": "2024-06-24T00:00:00"}
+{"review_id": "R00631", "product_id": "P0111", "customer_id": "C0109", "rating": 2, "comment": "Not as expected", "review_ts": "2023-07-14T00:00:00"}
+{"review_id": "R00632", "product_id": "P0055", "customer_id": "C0012", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-04-12T00:00:00"}
+{"review_id": "R00633", "product_id": "P0059", "customer_id": "C0108", "rating": 1, "comment": "Great!", "review_ts": "2024-11-18T00:00:00"}
+{"review_id": "R00634", "product_id": "P0063", "customer_id": "C0477", "rating": 2, "comment": "Not as expected", "review_ts": "2024-03-06T00:00:00"}
+{"review_id": "R00635", "product_id": "P0121", "customer_id": "C0054", "rating": 5, "comment": "Not as expected", "review_ts": "2023-05-08T00:00:00"}
+{"review_id": "R00636", "product_id": "P0055", "customer_id": "C0362", "rating": null, "comment": "", "review_ts": "2023-06-30T00:00:00"}
+{"review_id": "R00637", "product_id": "P0039", "customer_id": "C0077", "rating": 1, "comment": "Great!", "review_ts": "2023-04-17T00:00:00"}
+{"review_id": "R00638", "product_id": "P0133", "customer_id": "C0568", "rating": 1, "comment": "Would buy again", "review_ts": "2024-07-16T00:00:00"}
+{"review_id": "R00639", "product_id": "P0056", "customer_id": "C0049", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-08-21T00:00:00"}
+{"review_id": "R00640", "product_id": "P0146", "customer_id": "C0211", "rating": 2, "comment": "Not as expected", "review_ts": "2023-02-17T00:00:00"}
+{"review_id": "R00641", "product_id": "P0017", "customer_id": "C0187", "rating": 5, "comment": "", "review_ts": "2024-09-11T00:00:00"}
+{"review_id": "R00642", "product_id": "P0022", "customer_id": "C0590", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-01-22T00:00:00"}
+{"review_id": "R00643", "product_id": "P0042", "customer_id": "C0019", "rating": 5, "comment": "Not as expected", "review_ts": "2024-07-29T00:00:00"}
+{"review_id": "R00644", "product_id": "P0145", "customer_id": "C0394", "rating": null, "comment": "", "review_ts": "2024-06-02T00:00:00"}
+{"review_id": "R00645", "product_id": "P0031", "customer_id": "C0530", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-08-30T00:00:00"}
+{"review_id": "R00646", "product_id": "P0053", "customer_id": "C0310", "rating": null, "comment": "Would buy again", "review_ts": "2024-03-07T00:00:00"}
+{"review_id": "R00647", "product_id": "P0046", "customer_id": "C0527", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-06-01T00:00:00"}
+{"review_id": "R00648", "product_id": "P0144", "customer_id": "C0009", "rating": 3, "comment": "Would buy again", "review_ts": "2024-06-21T00:00:00"}
+{"review_id": "R00649", "product_id": "P0116", "customer_id": "C0470", "rating": null, "comment": "Would buy again", "review_ts": "2024-03-22T00:00:00"}
+{"review_id": "R00650", "product_id": "P0129", "customer_id": "C0037", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-07-23T00:00:00"}
+{"review_id": "R00651", "product_id": "P0127", "customer_id": "C0553", "rating": 1, "comment": "Not as expected", "review_ts": "2023-10-14T00:00:00"}
+{"review_id": "R00652", "product_id": "P0073", "customer_id": "C0406", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-06-12T00:00:00"}
+{"review_id": "R00653", "product_id": "P0052", "customer_id": "C0337", "rating": 5, "comment": "Would buy again", "review_ts": "2024-10-10T00:00:00"}
+{"review_id": "R00654", "product_id": "P0098", "customer_id": "C0266", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-01-29T00:00:00"}
+{"review_id": "R00655", "product_id": "P0150", "customer_id": "C0185", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-01-30T00:00:00"}
+{"review_id": "R00656", "product_id": "P0038", "customer_id": "C0560", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-01-17T00:00:00"}
+{"review_id": "R00657", "product_id": "P0066", "customer_id": "C0144", "rating": 2, "comment": "", "review_ts": "2023-09-27T00:00:00"}
+{"review_id": "R00658", "product_id": "P0142", "customer_id": "C0566", "rating": 5, "comment": "Great!", "review_ts": "2023-04-03T00:00:00"}
+{"review_id": "R00659", "product_id": "P0078", "customer_id": "C0449", "rating": 4, "comment": "Would buy again", "review_ts": "2024-08-13T00:00:00"}
+{"review_id": "R00660", "product_id": "P0141", "customer_id": "C0206", "rating": 4, "comment": "Not as expected", "review_ts": "2024-10-24T00:00:00"}
+{"review_id": "R00661", "product_id": "P0028", "customer_id": "C0328", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-01-01T00:00:00"}
+{"review_id": "R00662", "product_id": "P0131", "customer_id": "C0367", "rating": 4, "comment": "", "review_ts": "2024-06-21T00:00:00"}
+{"review_id": "R00663", "product_id": "P0028", "customer_id": "C0267", "rating": 1, "comment": "Not as expected", "review_ts": "2023-10-05T00:00:00"}
+{"review_id": "R00664", "product_id": "P0138", "customer_id": "C0248", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-11-29T00:00:00"}
+{"review_id": "R00665", "product_id": "P0062", "customer_id": "C0409", "rating": 4, "comment": "Would buy again", "review_ts": "2023-07-12T00:00:00"}
+{"review_id": "R00666", "product_id": "P0045", "customer_id": "C0404", "rating": 2, "comment": "Not as expected", "review_ts": "2023-09-24T00:00:00"}
+{"review_id": "R00667", "product_id": "P0089", "customer_id": "C0431", "rating": 1, "comment": "Would buy again", "review_ts": "2024-11-16T00:00:00"}
+{"review_id": "R00668", "product_id": "P0019", "customer_id": "C0072", "rating": 4, "comment": "Fast shipping", "review_ts": "2024-08-30T00:00:00"}
+{"review_id": "R00669", "product_id": "P0097", "customer_id": "C0395", "rating": 1, "comment": "", "review_ts": "2023-10-26T00:00:00"}
+{"review_id": "R00670", "product_id": "P0079", "customer_id": "C0411", "rating": 4, "comment": "Fast shipping", "review_ts": "2024-06-15T00:00:00"}
+{"review_id": "R00671", "product_id": "P0069", "customer_id": "C0568", "rating": 1, "comment": "Would buy again", "review_ts": "2024-09-13T00:00:00"}
+{"review_id": "R00672", "product_id": "P0090", "customer_id": "C0455", "rating": 1, "comment": "Great!", "review_ts": "2024-05-09T00:00:00"}
+{"review_id": "R00673", "product_id": "P0012", "customer_id": "C0375", "rating": 1, "comment": "Great!", "review_ts": "2023-09-20T00:00:00"}
+{"review_id": "R00674", "product_id": "P0004", "customer_id": "C0175", "rating": 2, "comment": "", "review_ts": "2023-08-08T00:00:00"}
+{"review_id": "R00675", "product_id": "P0087", "customer_id": "C0572", "rating": 4, "comment": "Great!", "review_ts": "2024-01-22T00:00:00"}
+{"review_id": "R00676", "product_id": "P0090", "customer_id": "C0505", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-06-27T00:00:00"}
+{"review_id": "R00677", "product_id": "P0046", "customer_id": "C0570", "rating": 3, "comment": "Great!", "review_ts": "2024-09-01T00:00:00"}
+{"review_id": "R00678", "product_id": "P0078", "customer_id": "C0283", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-01-20T00:00:00"}
+{"review_id": "R00679", "product_id": "P0070", "customer_id": "C0518", "rating": 5, "comment": "Fast shipping", "review_ts": "2024-06-30T00:00:00"}
+{"review_id": "R00680", "product_id": "P0102", "customer_id": "C0066", "rating": 5, "comment": "Great!", "review_ts": "2024-05-22T00:00:00"}
+{"review_id": "R00681", "product_id": "P0073", "customer_id": "C0315", "rating": 4, "comment": "", "review_ts": "2023-11-20T00:00:00"}
+{"review_id": "R00682", "product_id": "P0113", "customer_id": "C0391", "rating": 5, "comment": "Not as expected", "review_ts": "2024-03-18T00:00:00"}
+{"review_id": "R00683", "product_id": "P0055", "customer_id": "C0420", "rating": 5, "comment": "", "review_ts": "2024-11-26T00:00:00"}
+{"review_id": "R00684", "product_id": "P0004", "customer_id": "C0037", "rating": 5, "comment": "Would buy again", "review_ts": "2024-11-05T00:00:00"}
+{"review_id": "R00685", "product_id": "P0122", "customer_id": "C0230", "rating": null, "comment": "Great!", "review_ts": "2023-08-15T00:00:00"}
+{"review_id": "R00686", "product_id": "P0109", "customer_id": "C0347", "rating": 5, "comment": "", "review_ts": "2023-02-05T00:00:00"}
+{"review_id": "R00687", "product_id": "P0120", "customer_id": "C0453", "rating": 3, "comment": "Broken on arrival", "review_ts": "2024-03-24T00:00:00"}
+{"review_id": "R00688", "product_id": "P0065", "customer_id": "C0213", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-01-07T00:00:00"}
+{"review_id": "R00689", "product_id": "P0146", "customer_id": "C0442", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-12-13T00:00:00"}
+{"review_id": "R00690", "product_id": "P0087", "customer_id": "C0031", "rating": 1, "comment": "", "review_ts": "2024-11-19T00:00:00"}
+{"review_id": "R00691", "product_id": "P0052", "customer_id": "C0205", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-08-21T00:00:00"}
+{"review_id": "R00692", "product_id": "P0023", "customer_id": "C0455", "rating": null, "comment": "Not as expected", "review_ts": "2024-12-01T00:00:00"}
+{"review_id": "R00693", "product_id": "P0125", "customer_id": "C0283", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-08-18T00:00:00"}
+{"review_id": "R00694", "product_id": "P0025", "customer_id": "C0485", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-08-29T00:00:00"}
+{"review_id": "R00695", "product_id": "P0066", "customer_id": "C0021", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-05-08T00:00:00"}
+{"review_id": "R00696", "product_id": "P0013", "customer_id": "C0122", "rating": 3, "comment": "", "review_ts": "2024-06-17T00:00:00"}
+{"review_id": "R00697", "product_id": "P0082", "customer_id": "C0151", "rating": 4, "comment": "Not as expected", "review_ts": "2023-06-23T00:00:00"}
+{"review_id": "R00698", "product_id": "P0054", "customer_id": "C0084", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-06-16T00:00:00"}
+{"review_id": "R00699", "product_id": "P0087", "customer_id": "C0454", "rating": 4, "comment": "Would buy again", "review_ts": "2024-07-15T00:00:00"}
+{"review_id": "R00700", "product_id": "P0073", "customer_id": "C0406", "rating": 2, "comment": "Great!", "review_ts": "2024-01-16T00:00:00"}
+{"review_id": "R00701", "product_id": "P0075", "customer_id": "C0134", "rating": 1, "comment": "", "review_ts": "2023-03-31T00:00:00"}
+{"review_id": "R00702", "product_id": "P0024", "customer_id": "C0502", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-06-06T00:00:00"}
+{"review_id": "R00703", "product_id": "P0045", "customer_id": "C0455", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-08-21T00:00:00"}
+{"review_id": "R00704", "product_id": "P0078", "customer_id": "C0047", "rating": 1, "comment": "Would buy again", "review_ts": "2024-07-12T00:00:00"}
+{"review_id": "R00705", "product_id": "P0024", "customer_id": "C0277", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-03-26T00:00:00"}
+{"review_id": "R00706", "product_id": "P0066", "customer_id": "C0108", "rating": 5, "comment": "Great!", "review_ts": "2024-05-30T00:00:00"}
+{"review_id": "R00707", "product_id": "P0033", "customer_id": "C0449", "rating": 1, "comment": "", "review_ts": "2023-12-31T00:00:00"}
+{"review_id": "R00708", "product_id": "P0027", "customer_id": "C0193", "rating": 1, "comment": "Would buy again", "review_ts": "2023-10-05T00:00:00"}
+{"review_id": "R00709", "product_id": "P0135", "customer_id": "C0168", "rating": null, "comment": "Would buy again", "review_ts": "2024-07-27T00:00:00"}
+{"review_id": "R00710", "product_id": "P0036", "customer_id": "C0453", "rating": 4, "comment": "", "review_ts": "2023-08-13T00:00:00"}
+{"review_id": "R00711", "product_id": "P0070", "customer_id": "C0208", "rating": 5, "comment": "Fast shipping", "review_ts": "2024-03-18T00:00:00"}
+{"review_id": "R00712", "product_id": "P0060", "customer_id": "C0363", "rating": 4, "comment": "", "review_ts": "2023-04-17T00:00:00"}
+{"review_id": "R00713", "product_id": "P0137", "customer_id": "C0513", "rating": 4, "comment": "", "review_ts": "2024-07-04T00:00:00"}
+{"review_id": "R00714", "product_id": "P0051", "customer_id": "C0310", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-08-25T00:00:00"}
+{"review_id": "R00715", "product_id": "P0120", "customer_id": "C0280", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-04-24T00:00:00"}
+{"review_id": "R00716", "product_id": "P0080", "customer_id": "C0433", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-09-28T00:00:00"}
+{"review_id": "R00717", "product_id": "P0117", "customer_id": "C0578", "rating": 2, "comment": "Great!", "review_ts": "2024-10-28T00:00:00"}
+{"review_id": "R00718", "product_id": "P0139", "customer_id": "C0027", "rating": 4, "comment": "Great!", "review_ts": "2023-05-12T00:00:00"}
+{"review_id": "R00719", "product_id": "P0064", "customer_id": "C0189", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-06-09T00:00:00"}
+{"review_id": "R00720", "product_id": "P0027", "customer_id": "C0144", "rating": null, "comment": "Great!", "review_ts": "2023-12-06T00:00:00"}
+{"review_id": "R00721", "product_id": "P0091", "customer_id": "C0264", "rating": 2, "comment": "Not as expected", "review_ts": "2024-03-25T00:00:00"}
+{"review_id": "R00722", "product_id": "P0063", "customer_id": "C0572", "rating": null, "comment": "Would buy again", "review_ts": "2024-04-07T00:00:00"}
+{"review_id": "R00723", "product_id": "P0116", "customer_id": "C0021", "rating": 3, "comment": "", "review_ts": "2023-04-16T00:00:00"}
+{"review_id": "R00724", "product_id": "P0065", "customer_id": "C0329", "rating": 5, "comment": "Would buy again", "review_ts": "2024-02-28T00:00:00"}
+{"review_id": "R00725", "product_id": "P0022", "customer_id": "C0214", "rating": 4, "comment": "Fast shipping", "review_ts": "2023-07-19T00:00:00"}
+{"review_id": "R00726", "product_id": "P0039", "customer_id": "C0239", "rating": 3, "comment": "Would buy again", "review_ts": "2023-02-03T00:00:00"}
+{"review_id": "R00727", "product_id": "P0103", "customer_id": "C0238", "rating": 2, "comment": "Would buy again", "review_ts": "2024-04-13T00:00:00"}
+{"review_id": "R00728", "product_id": "P0116", "customer_id": "C0313", "rating": 3, "comment": "Fast shipping", "review_ts": "2024-05-28T00:00:00"}
+{"review_id": "R00729", "product_id": "P0074", "customer_id": "C0038", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-06-03T00:00:00"}
+{"review_id": "R00730", "product_id": "P0018", "customer_id": "C0004", "rating": null, "comment": "Would buy again", "review_ts": "2024-08-13T00:00:00"}
+{"review_id": "R00731", "product_id": "P0125", "customer_id": "C0573", "rating": null, "comment": "Would buy again", "review_ts": "2024-06-14T00:00:00"}
+{"review_id": "R00732", "product_id": "P0086", "customer_id": "C0445", "rating": 4, "comment": "", "review_ts": "2023-01-05T00:00:00"}
+{"review_id": "R00733", "product_id": "P0018", "customer_id": "C0556", "rating": 4, "comment": "", "review_ts": "2024-03-03T00:00:00"}
+{"review_id": "R00734", "product_id": "P0100", "customer_id": "C0428", "rating": 5, "comment": "Not as expected", "review_ts": "2024-08-18T00:00:00"}
+{"review_id": "R00735", "product_id": "P0145", "customer_id": "C0186", "rating": 4, "comment": "Would buy again", "review_ts": "2024-11-20T00:00:00"}
+{"review_id": "R00736", "product_id": "P0050", "customer_id": "C0379", "rating": null, "comment": "", "review_ts": "2023-02-02T00:00:00"}
+{"review_id": "R00737", "product_id": "P0127", "customer_id": "C0565", "rating": 5, "comment": "Would buy again", "review_ts": "2023-02-12T00:00:00"}
+{"review_id": "R00738", "product_id": "P0146", "customer_id": "C0471", "rating": null, "comment": "", "review_ts": "2024-06-30T00:00:00"}
+{"review_id": "R00739", "product_id": "P0047", "customer_id": "C0017", "rating": 4, "comment": "", "review_ts": "2024-08-13T00:00:00"}
+{"review_id": "R00740", "product_id": "P0131", "customer_id": "C0231", "rating": null, "comment": "Not as expected", "review_ts": "2024-06-16T00:00:00"}
+{"review_id": "R00741", "product_id": "P0019", "customer_id": "C0014", "rating": 1, "comment": "Not as expected", "review_ts": "2024-02-18T00:00:00"}
+{"review_id": "R00742", "product_id": "P0034", "customer_id": "C0275", "rating": 1, "comment": "Would buy again", "review_ts": "2023-07-15T00:00:00"}
+{"review_id": "R00743", "product_id": "P0021", "customer_id": "C0593", "rating": 3, "comment": "", "review_ts": "2023-06-03T00:00:00"}
+{"review_id": "R00744", "product_id": "P0097", "customer_id": "C0256", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-10-20T00:00:00"}
+{"review_id": "R00745", "product_id": "P0065", "customer_id": "C0314", "rating": 4, "comment": "", "review_ts": "2023-07-17T00:00:00"}
+{"review_id": "R00746", "product_id": "P0046", "customer_id": "C0144", "rating": null, "comment": "", "review_ts": "2023-12-03T00:00:00"}
+{"review_id": "R00747", "product_id": "P0006", "customer_id": "C0358", "rating": 3, "comment": "", "review_ts": "2024-01-27T00:00:00"}
+{"review_id": "R00748", "product_id": "P0120", "customer_id": "C0506", "rating": 5, "comment": "", "review_ts": "2023-10-22T00:00:00"}
+{"review_id": "R00749", "product_id": "P0129", "customer_id": "C0541", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-08-14T00:00:00"}
+{"review_id": "R00750", "product_id": "P0085", "customer_id": "C0257", "rating": 4, "comment": "Fast shipping", "review_ts": "2023-07-05T00:00:00"}
+{"review_id": "R00751", "product_id": "P0002", "customer_id": "C0030", "rating": 2, "comment": "Would buy again", "review_ts": "2024-08-06T00:00:00"}
+{"review_id": "R00752", "product_id": "P0039", "customer_id": "C0221", "rating": 3, "comment": "Not as expected", "review_ts": "2024-11-08T00:00:00"}
+{"review_id": "R00753", "product_id": "P0116", "customer_id": "C0095", "rating": 3, "comment": "Not as expected", "review_ts": "2023-10-19T00:00:00"}
+{"review_id": "R00754", "product_id": "P0050", "customer_id": "C0487", "rating": null, "comment": "Would buy again", "review_ts": "2023-03-03T00:00:00"}
+{"review_id": "R00755", "product_id": "P0032", "customer_id": "C0241", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-07-02T00:00:00"}
+{"review_id": "R00756", "product_id": "P0070", "customer_id": "C0591", "rating": 2, "comment": "Would buy again", "review_ts": "2024-07-19T00:00:00"}
+{"review_id": "R00757", "product_id": "P0076", "customer_id": "C0033", "rating": null, "comment": "Would buy again", "review_ts": "2024-02-17T00:00:00"}
+{"review_id": "R00758", "product_id": "P0108", "customer_id": "C0310", "rating": 4, "comment": "Not as expected", "review_ts": "2024-06-25T00:00:00"}
+{"review_id": "R00759", "product_id": "P0087", "customer_id": "C0230", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-11-19T00:00:00"}
+{"review_id": "R00760", "product_id": "P0028", "customer_id": "C0175", "rating": 2, "comment": "Great!", "review_ts": "2024-05-11T00:00:00"}
+{"review_id": "R00761", "product_id": "P0036", "customer_id": "C0086", "rating": 3, "comment": "Would buy again", "review_ts": "2024-11-26T00:00:00"}
+{"review_id": "R00762", "product_id": "P0140", "customer_id": "C0048", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-01-06T00:00:00"}
+{"review_id": "R00763", "product_id": "P0046", "customer_id": "C0183", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-05-22T00:00:00"}
+{"review_id": "R00764", "product_id": "P0010", "customer_id": "C0227", "rating": 2, "comment": "", "review_ts": "2023-03-28T00:00:00"}
+{"review_id": "R00765", "product_id": "P0061", "customer_id": "C0190", "rating": 4, "comment": "Would buy again", "review_ts": "2023-01-18T00:00:00"}
+{"review_id": "R00766", "product_id": "P0016", "customer_id": "C0379", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-01-11T00:00:00"}
+{"review_id": "R00767", "product_id": "P0105", "customer_id": "C0272", "rating": 2, "comment": "Would buy again", "review_ts": "2023-08-25T00:00:00"}
+{"review_id": "R00768", "product_id": "P0144", "customer_id": "C0354", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-02-10T00:00:00"}
+{"review_id": "R00769", "product_id": "P0113", "customer_id": "C0569", "rating": 2, "comment": "Not as expected", "review_ts": "2023-01-08T00:00:00"}
+{"review_id": "R00770", "product_id": "P0010", "customer_id": "C0514", "rating": 2, "comment": "", "review_ts": "2023-05-12T00:00:00"}
+{"review_id": "R00771", "product_id": "P0077", "customer_id": "C0261", "rating": null, "comment": "", "review_ts": "2024-08-29T00:00:00"}
+{"review_id": "R00772", "product_id": "P0032", "customer_id": "C0218", "rating": 1, "comment": "", "review_ts": "2024-01-28T00:00:00"}
+{"review_id": "R00773", "product_id": "P0026", "customer_id": "C0001", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-11-22T00:00:00"}
+{"review_id": "R00774", "product_id": "P0125", "customer_id": "C0055", "rating": 3, "comment": "Great!", "review_ts": "2024-08-15T00:00:00"}
+{"review_id": "R00775", "product_id": "P0049", "customer_id": "C0395", "rating": 3, "comment": "Great!", "review_ts": "2024-01-27T00:00:00"}
+{"review_id": "R00776", "product_id": "P0071", "customer_id": "C0098", "rating": 3, "comment": "Great!", "review_ts": "2023-05-07T00:00:00"}
+{"review_id": "R00777", "product_id": "P0131", "customer_id": "C0135", "rating": 2, "comment": "Not as expected", "review_ts": "2023-10-22T00:00:00"}
+{"review_id": "R00778", "product_id": "P0029", "customer_id": "C0221", "rating": null, "comment": "", "review_ts": "2023-06-19T00:00:00"}
+{"review_id": "R00779", "product_id": "P0148", "customer_id": "C0364", "rating": 1, "comment": "Great!", "review_ts": "2023-01-27T00:00:00"}
+{"review_id": "R00780", "product_id": "P0033", "customer_id": "C0240", "rating": 2, "comment": "Not as expected", "review_ts": "2023-06-11T00:00:00"}
+{"review_id": "R00781", "product_id": "P0031", "customer_id": "C0215", "rating": 5, "comment": "Would buy again", "review_ts": "2024-10-14T00:00:00"}
+{"review_id": "R00782", "product_id": "P0035", "customer_id": "C0525", "rating": 3, "comment": "Would buy again", "review_ts": "2023-05-04T00:00:00"}
+{"review_id": "R00783", "product_id": "P0073", "customer_id": "C0186", "rating": 4, "comment": "Not as expected", "review_ts": "2023-11-21T00:00:00"}
+{"review_id": "R00784", "product_id": "P0010", "customer_id": "C0171", "rating": 2, "comment": "Great!", "review_ts": "2023-10-03T00:00:00"}
+{"review_id": "R00785", "product_id": "P0022", "customer_id": "C0383", "rating": 1, "comment": "Great!", "review_ts": "2023-03-28T00:00:00"}
+{"review_id": "R00786", "product_id": "P0149", "customer_id": "C0332", "rating": 2, "comment": "", "review_ts": "2023-05-26T00:00:00"}
+{"review_id": "R00787", "product_id": "P0024", "customer_id": "C0001", "rating": 3, "comment": "Would buy again", "review_ts": "2024-05-05T00:00:00"}
+{"review_id": "R00788", "product_id": "P0129", "customer_id": "C0292", "rating": null, "comment": "Not as expected", "review_ts": "2024-11-08T00:00:00"}
+{"review_id": "R00789", "product_id": "P0139", "customer_id": "C0089", "rating": 3, "comment": "", "review_ts": "2023-09-10T00:00:00"}
+{"review_id": "R00790", "product_id": "P0083", "customer_id": "C0121", "rating": null, "comment": "", "review_ts": "2024-09-25T00:00:00"}
+{"review_id": "R00791", "product_id": "P0078", "customer_id": "C0122", "rating": 5, "comment": "Would buy again", "review_ts": "2024-04-24T00:00:00"}
+{"review_id": "R00792", "product_id": "P0138", "customer_id": "C0087", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-09-05T00:00:00"}
+{"review_id": "R00793", "product_id": "P0006", "customer_id": "C0106", "rating": 5, "comment": "", "review_ts": "2023-04-16T00:00:00"}
+{"review_id": "R00794", "product_id": "P0028", "customer_id": "C0341", "rating": 3, "comment": "Not as expected", "review_ts": "2023-04-27T00:00:00"}
+{"review_id": "R00795", "product_id": "P0112", "customer_id": "C0432", "rating": 1, "comment": "Great!", "review_ts": "2024-11-14T00:00:00"}
+{"review_id": "R00796", "product_id": "P0075", "customer_id": "C0110", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-11-21T00:00:00"}
+{"review_id": "R00797", "product_id": "P0144", "customer_id": "C0506", "rating": 2, "comment": "Great!", "review_ts": "2024-02-21T00:00:00"}
+{"review_id": "R00798", "product_id": "P0068", "customer_id": "C0341", "rating": 4, "comment": "Not as expected", "review_ts": "2024-10-25T00:00:00"}
+{"review_id": "R00799", "product_id": "P0008", "customer_id": "C0027", "rating": 5, "comment": "Would buy again", "review_ts": "2023-07-12T00:00:00"}
+{"review_id": "R00800", "product_id": "P0046", "customer_id": "C0479", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-01-12T00:00:00"}
+{"review_id": "R00801", "product_id": "P0038", "customer_id": "C0547", "rating": 2, "comment": "Would buy again", "review_ts": "2024-04-11T00:00:00"}
+{"review_id": "R00802", "product_id": "P0034", "customer_id": "C0365", "rating": null, "comment": "", "review_ts": "2023-05-10T00:00:00"}
+{"review_id": "R00803", "product_id": "P0014", "customer_id": "C0308", "rating": 4, "comment": "Fast shipping", "review_ts": "2024-02-26T00:00:00"}
+{"review_id": "R00804", "product_id": "P0119", "customer_id": "C0095", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-03-15T00:00:00"}
+{"review_id": "R00805", "product_id": "P0037", "customer_id": "C0450", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-10-05T00:00:00"}
+{"review_id": "R00806", "product_id": "P0005", "customer_id": "C0098", "rating": 2, "comment": "Great!", "review_ts": "2023-12-23T00:00:00"}
+{"review_id": "R00807", "product_id": "P0148", "customer_id": "C0436", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-07-26T00:00:00"}
+{"review_id": "R00808", "product_id": "P0064", "customer_id": "C0164", "rating": 3, "comment": "", "review_ts": "2024-08-20T00:00:00"}
+{"review_id": "R00809", "product_id": "P0117", "customer_id": "C0044", "rating": 4, "comment": "", "review_ts": "2023-07-22T00:00:00"}
+{"review_id": "R00810", "product_id": "P0005", "customer_id": "C0386", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-07-15T00:00:00"}
+{"review_id": "R00811", "product_id": "P0131", "customer_id": "C0457", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-04-29T00:00:00"}
+{"review_id": "R00812", "product_id": "P0148", "customer_id": "C0182", "rating": 1, "comment": "", "review_ts": "2024-11-19T00:00:00"}
+{"review_id": "R00813", "product_id": "P0035", "customer_id": "C0140", "rating": 5, "comment": "", "review_ts": "2023-12-19T00:00:00"}
+{"review_id": "R00814", "product_id": "P0074", "customer_id": "C0046", "rating": 3, "comment": "Great!", "review_ts": "2023-05-25T00:00:00"}
+{"review_id": "R00815", "product_id": "P0104", "customer_id": "C0093", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-06-16T00:00:00"}
+{"review_id": "R00816", "product_id": "P0066", "customer_id": "C0312", "rating": null, "comment": "Great!", "review_ts": "2023-04-13T00:00:00"}
+{"review_id": "R00817", "product_id": "P0082", "customer_id": "C0418", "rating": null, "comment": "", "review_ts": "2023-05-14T00:00:00"}
+{"review_id": "R00818", "product_id": "P0043", "customer_id": "C0335", "rating": 5, "comment": "Fast shipping", "review_ts": "2024-06-14T00:00:00"}
+{"review_id": "R00819", "product_id": "P0030", "customer_id": "C0019", "rating": 4, "comment": "Great!", "review_ts": "2023-10-25T00:00:00"}
+{"review_id": "R00820", "product_id": "P0086", "customer_id": "C0593", "rating": 5, "comment": "Not as expected", "review_ts": "2024-03-25T00:00:00"}
+{"review_id": "R00821", "product_id": "P0141", "customer_id": "C0065", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-02-06T00:00:00"}
+{"review_id": "R00822", "product_id": "P0088", "customer_id": "C0420", "rating": 3, "comment": "Would buy again", "review_ts": "2024-04-17T00:00:00"}
+{"review_id": "R00823", "product_id": "P0025", "customer_id": "C0468", "rating": 2, "comment": "Would buy again", "review_ts": "2023-05-07T00:00:00"}
+{"review_id": "R00824", "product_id": "P0044", "customer_id": "C0389", "rating": 5, "comment": "Would buy again", "review_ts": "2023-04-08T00:00:00"}
+{"review_id": "R00825", "product_id": "P0081", "customer_id": "C0239", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-01-03T00:00:00"}
+{"review_id": "R00826", "product_id": "P0058", "customer_id": "C0191", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-08-02T00:00:00"}
+{"review_id": "R00827", "product_id": "P0006", "customer_id": "C0595", "rating": null, "comment": "Not as expected", "review_ts": "2024-03-03T00:00:00"}
+{"review_id": "R00828", "product_id": "P0117", "customer_id": "C0489", "rating": 5, "comment": "", "review_ts": "2023-07-21T00:00:00"}
+{"review_id": "R00829", "product_id": "P0054", "customer_id": "C0118", "rating": 1, "comment": "", "review_ts": "2023-06-30T00:00:00"}
+{"review_id": "R00830", "product_id": "P0013", "customer_id": "C0487", "rating": 3, "comment": "", "review_ts": "2023-06-06T00:00:00"}
+{"review_id": "R00831", "product_id": "P0012", "customer_id": "C0355", "rating": 4, "comment": "Fast shipping", "review_ts": "2023-12-13T00:00:00"}
+{"review_id": "R00832", "product_id": "P0135", "customer_id": "C0010", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-09-19T00:00:00"}
+{"review_id": "R00833", "product_id": "P0014", "customer_id": "C0333", "rating": 5, "comment": "Fast shipping", "review_ts": "2024-03-23T00:00:00"}
+{"review_id": "R00834", "product_id": "P0092", "customer_id": "C0599", "rating": 3, "comment": "Great!", "review_ts": "2024-08-20T00:00:00"}
+{"review_id": "R00835", "product_id": "P0121", "customer_id": "C0253", "rating": null, "comment": "Not as expected", "review_ts": "2024-09-12T00:00:00"}
+{"review_id": "R00836", "product_id": "P0089", "customer_id": "C0036", "rating": 3, "comment": "Fast shipping", "review_ts": "2024-11-15T00:00:00"}
+{"review_id": "R00837", "product_id": "P0078", "customer_id": "C0547", "rating": null, "comment": "Not as expected", "review_ts": "2023-01-18T00:00:00"}
+{"review_id": "R00838", "product_id": "P0096", "customer_id": "C0274", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-10-04T00:00:00"}
+{"review_id": "R00839", "product_id": "P0023", "customer_id": "C0181", "rating": 5, "comment": "Not as expected", "review_ts": "2023-03-16T00:00:00"}
+{"review_id": "R00840", "product_id": "P0026", "customer_id": "C0438", "rating": null, "comment": "Would buy again", "review_ts": "2023-10-19T00:00:00"}
+{"review_id": "R00841", "product_id": "P0150", "customer_id": "C0288", "rating": 3, "comment": "Not as expected", "review_ts": "2023-07-08T00:00:00"}
+{"review_id": "R00842", "product_id": "P0132", "customer_id": "C0233", "rating": 2, "comment": "Would buy again", "review_ts": "2024-10-12T00:00:00"}
+{"review_id": "R00843", "product_id": "P0147", "customer_id": "C0328", "rating": null, "comment": "Would buy again", "review_ts": "2024-04-15T00:00:00"}
+{"review_id": "R00844", "product_id": "P0076", "customer_id": "C0155", "rating": 4, "comment": "Would buy again", "review_ts": "2024-02-25T00:00:00"}
+{"review_id": "R00845", "product_id": "P0057", "customer_id": "C0004", "rating": 3, "comment": "Would buy again", "review_ts": "2023-11-25T00:00:00"}
+{"review_id": "R00846", "product_id": "P0088", "customer_id": "C0024", "rating": 5, "comment": "Fast shipping", "review_ts": "2024-03-28T00:00:00"}
+{"review_id": "R00847", "product_id": "P0137", "customer_id": "C0370", "rating": null, "comment": "Fast shipping", "review_ts": "2023-03-10T00:00:00"}
+{"review_id": "R00848", "product_id": "P0112", "customer_id": "C0196", "rating": 5, "comment": "Would buy again", "review_ts": "2023-06-22T00:00:00"}
+{"review_id": "R00849", "product_id": "P0130", "customer_id": "C0064", "rating": 1, "comment": "", "review_ts": "2023-12-11T00:00:00"}
+{"review_id": "R00850", "product_id": "P0145", "customer_id": "C0160", "rating": 3, "comment": "Great!", "review_ts": "2023-06-18T00:00:00"}
+{"review_id": "R00851", "product_id": "P0027", "customer_id": "C0121", "rating": 5, "comment": "Would buy again", "review_ts": "2023-10-17T00:00:00"}
+{"review_id": "R00852", "product_id": "P0098", "customer_id": "C0159", "rating": 2, "comment": "Great!", "review_ts": "2023-03-27T00:00:00"}
+{"review_id": "R00853", "product_id": "P0112", "customer_id": "C0368", "rating": 3, "comment": "Fast shipping", "review_ts": "2024-02-04T00:00:00"}
+{"review_id": "R00854", "product_id": "P0058", "customer_id": "C0413", "rating": 2, "comment": "Great!", "review_ts": "2023-02-19T00:00:00"}
+{"review_id": "R00855", "product_id": "P0076", "customer_id": "C0192", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-08-17T00:00:00"}
+{"review_id": "R00856", "product_id": "P0011", "customer_id": "C0079", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-10-30T00:00:00"}
+{"review_id": "R00857", "product_id": "P0004", "customer_id": "C0444", "rating": null, "comment": "", "review_ts": "2024-01-09T00:00:00"}
+{"review_id": "R00858", "product_id": "P0085", "customer_id": "C0392", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-04-04T00:00:00"}
+{"review_id": "R00859", "product_id": "P0068", "customer_id": "C0381", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-08-04T00:00:00"}
+{"review_id": "R00860", "product_id": "P0088", "customer_id": "C0145", "rating": null, "comment": "Would buy again", "review_ts": "2023-07-19T00:00:00"}
+{"review_id": "R00861", "product_id": "P0099", "customer_id": "C0148", "rating": 3, "comment": "Broken on arrival", "review_ts": "2024-04-13T00:00:00"}
+{"review_id": "R00862", "product_id": "P0068", "customer_id": "C0101", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-05-06T00:00:00"}
+{"review_id": "R00863", "product_id": "P0109", "customer_id": "C0356", "rating": 4, "comment": "", "review_ts": "2024-02-07T00:00:00"}
+{"review_id": "R00864", "product_id": "P0081", "customer_id": "C0449", "rating": 4, "comment": "Fast shipping", "review_ts": "2023-01-14T00:00:00"}
+{"review_id": "R00865", "product_id": "P0102", "customer_id": "C0210", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-01-02T00:00:00"}
+{"review_id": "R00866", "product_id": "P0088", "customer_id": "C0492", "rating": 4, "comment": "Great!", "review_ts": "2024-04-03T00:00:00"}
+{"review_id": "R00867", "product_id": "P0030", "customer_id": "C0085", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-08-07T00:00:00"}
+{"review_id": "R00868", "product_id": "P0105", "customer_id": "C0445", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-09-05T00:00:00"}
+{"review_id": "R00869", "product_id": "P0058", "customer_id": "C0599", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-08-21T00:00:00"}
+{"review_id": "R00870", "product_id": "P0105", "customer_id": "C0154", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-10-18T00:00:00"}
+{"review_id": "R00871", "product_id": "P0052", "customer_id": "C0410", "rating": 5, "comment": "Not as expected", "review_ts": "2024-05-30T00:00:00"}
+{"review_id": "R00872", "product_id": "P0081", "customer_id": "C0084", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-07-10T00:00:00"}
+{"review_id": "R00873", "product_id": "P0135", "customer_id": "C0205", "rating": 4, "comment": "Would buy again", "review_ts": "2023-10-19T00:00:00"}
+{"review_id": "R00874", "product_id": "P0114", "customer_id": "C0433", "rating": null, "comment": "Fast shipping", "review_ts": "2023-03-12T00:00:00"}
+{"review_id": "R00875", "product_id": "P0128", "customer_id": "C0213", "rating": 2, "comment": "", "review_ts": "2023-09-11T00:00:00"}
+{"review_id": "R00876", "product_id": "P0107", "customer_id": "C0056", "rating": 1, "comment": "Great!", "review_ts": "2024-04-26T00:00:00"}
+{"review_id": "R00877", "product_id": "P0138", "customer_id": "C0412", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-11-30T00:00:00"}
+{"review_id": "R00878", "product_id": "P0012", "customer_id": "C0359", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-12-09T00:00:00"}
+{"review_id": "R00879", "product_id": "P0010", "customer_id": "C0203", "rating": 3, "comment": "Would buy again", "review_ts": "2023-04-13T00:00:00"}
+{"review_id": "R00880", "product_id": "P0110", "customer_id": "C0355", "rating": 3, "comment": "Would buy again", "review_ts": "2024-07-07T00:00:00"}
+{"review_id": "R00881", "product_id": "P0015", "customer_id": "C0383", "rating": 1, "comment": "Would buy again", "review_ts": "2023-11-16T00:00:00"}
+{"review_id": "R00882", "product_id": "P0098", "customer_id": "C0295", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-01-21T00:00:00"}
+{"review_id": "R00883", "product_id": "P0002", "customer_id": "C0507", "rating": null, "comment": "Fast shipping", "review_ts": "2024-04-07T00:00:00"}
+{"review_id": "R00884", "product_id": "P0101", "customer_id": "C0300", "rating": 4, "comment": "Great!", "review_ts": "2023-07-28T00:00:00"}
+{"review_id": "R00885", "product_id": "P0097", "customer_id": "C0202", "rating": null, "comment": "Not as expected", "review_ts": "2023-10-17T00:00:00"}
+{"review_id": "R00886", "product_id": "P0034", "customer_id": "C0522", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-07-02T00:00:00"}
+{"review_id": "R00887", "product_id": "P0037", "customer_id": "C0484", "rating": 1, "comment": "Would buy again", "review_ts": "2024-10-04T00:00:00"}
+{"review_id": "R00888", "product_id": "P0037", "customer_id": "C0088", "rating": 4, "comment": "Not as expected", "review_ts": "2024-02-24T00:00:00"}
+{"review_id": "R00889", "product_id": "P0100", "customer_id": "C0329", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-04-13T00:00:00"}
+{"review_id": "R00890", "product_id": "P0060", "customer_id": "C0590", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-11-27T00:00:00"}
+{"review_id": "R00891", "product_id": "P0012", "customer_id": "C0473", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-11-27T00:00:00"}
+{"review_id": "R00892", "product_id": "P0127", "customer_id": "C0163", "rating": null, "comment": "Not as expected", "review_ts": "2024-02-28T00:00:00"}
+{"review_id": "R00893", "product_id": "P0096", "customer_id": "C0432", "rating": 4, "comment": "Great!", "review_ts": "2023-09-23T00:00:00"}
+{"review_id": "R00894", "product_id": "P0118", "customer_id": "C0418", "rating": 4, "comment": "Fast shipping", "review_ts": "2024-04-25T00:00:00"}
+{"review_id": "R00895", "product_id": "P0031", "customer_id": "C0404", "rating": 3, "comment": "Great!", "review_ts": "2023-06-10T00:00:00"}
+{"review_id": "R00896", "product_id": "P0041", "customer_id": "C0385", "rating": 1, "comment": "", "review_ts": "2024-11-06T00:00:00"}
+{"review_id": "R00897", "product_id": "P0033", "customer_id": "C0195", "rating": 3, "comment": "Would buy again", "review_ts": "2023-09-19T00:00:00"}
+{"review_id": "R00898", "product_id": "P0087", "customer_id": "C0434", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-09-26T00:00:00"}
+{"review_id": "R00899", "product_id": "P0023", "customer_id": "C0441", "rating": 4, "comment": "Fast shipping", "review_ts": "2024-07-04T00:00:00"}
+{"review_id": "R00900", "product_id": "P0048", "customer_id": "C0410", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-06-21T00:00:00"}
+{"review_id": "R00901", "product_id": "P0019", "customer_id": "C0027", "rating": 5, "comment": "Would buy again", "review_ts": "2023-12-15T00:00:00"}
+{"review_id": "R00902", "product_id": "P0123", "customer_id": "C0497", "rating": 1, "comment": "Would buy again", "review_ts": "2023-09-08T00:00:00"}
+{"review_id": "R00903", "product_id": "P0053", "customer_id": "C0503", "rating": null, "comment": "Great!", "review_ts": "2024-05-17T00:00:00"}
+{"review_id": "R00904", "product_id": "P0004", "customer_id": "C0219", "rating": null, "comment": "Not as expected", "review_ts": "2023-04-29T00:00:00"}
+{"review_id": "R00905", "product_id": "P0090", "customer_id": "C0384", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-01-10T00:00:00"}
+{"review_id": "R00906", "product_id": "P0088", "customer_id": "C0192", "rating": 2, "comment": "", "review_ts": "2024-11-16T00:00:00"}
+{"review_id": "R00907", "product_id": "P0011", "customer_id": "C0517", "rating": 3, "comment": "Great!", "review_ts": "2024-09-05T00:00:00"}
+{"review_id": "R00908", "product_id": "P0138", "customer_id": "C0199", "rating": 5, "comment": "", "review_ts": "2024-01-30T00:00:00"}
+{"review_id": "R00909", "product_id": "P0015", "customer_id": "C0387", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-07-07T00:00:00"}
+{"review_id": "R00910", "product_id": "P0079", "customer_id": "C0532", "rating": 5, "comment": "Fast shipping", "review_ts": "2024-03-02T00:00:00"}
+{"review_id": "R00911", "product_id": "P0147", "customer_id": "C0087", "rating": 1, "comment": "Great!", "review_ts": "2023-07-18T00:00:00"}
+{"review_id": "R00912", "product_id": "P0004", "customer_id": "C0527", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-01-03T00:00:00"}
+{"review_id": "R00913", "product_id": "P0136", "customer_id": "C0376", "rating": 2, "comment": "Would buy again", "review_ts": "2024-11-02T00:00:00"}
+{"review_id": "R00914", "product_id": "P0008", "customer_id": "C0253", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-10-02T00:00:00"}
+{"review_id": "R00915", "product_id": "P0026", "customer_id": "C0380", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-02-20T00:00:00"}
+{"review_id": "R00916", "product_id": "P0026", "customer_id": "C0201", "rating": 1, "comment": "Broken on arrival", "review_ts": "2023-07-25T00:00:00"}
+{"review_id": "R00917", "product_id": "P0084", "customer_id": "C0278", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-07-18T00:00:00"}
+{"review_id": "R00918", "product_id": "P0147", "customer_id": "C0407", "rating": 1, "comment": "", "review_ts": "2023-01-14T00:00:00"}
+{"review_id": "R00919", "product_id": "P0075", "customer_id": "C0499", "rating": 1, "comment": "Would buy again", "review_ts": "2024-07-29T00:00:00"}
+{"review_id": "R00920", "product_id": "P0002", "customer_id": "C0308", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-09-26T00:00:00"}
+{"review_id": "R00921", "product_id": "P0150", "customer_id": "C0507", "rating": null, "comment": "", "review_ts": "2024-05-11T00:00:00"}
+{"review_id": "R00922", "product_id": "P0093", "customer_id": "C0514", "rating": null, "comment": "Fast shipping", "review_ts": "2023-02-24T00:00:00"}
+{"review_id": "R00923", "product_id": "P0044", "customer_id": "C0294", "rating": 5, "comment": "Not as expected", "review_ts": "2024-05-28T00:00:00"}
+{"review_id": "R00924", "product_id": "P0118", "customer_id": "C0067", "rating": 2, "comment": "Would buy again", "review_ts": "2024-09-06T00:00:00"}
+{"review_id": "R00925", "product_id": "P0037", "customer_id": "C0444", "rating": 5, "comment": "", "review_ts": "2023-08-24T00:00:00"}
+{"review_id": "R00926", "product_id": "P0087", "customer_id": "C0276", "rating": 3, "comment": "", "review_ts": "2023-10-03T00:00:00"}
+{"review_id": "R00927", "product_id": "P0087", "customer_id": "C0526", "rating": null, "comment": "Would buy again", "review_ts": "2023-01-24T00:00:00"}
+{"review_id": "R00928", "product_id": "P0088", "customer_id": "C0424", "rating": 2, "comment": "", "review_ts": "2023-03-05T00:00:00"}
+{"review_id": "R00929", "product_id": "P0032", "customer_id": "C0574", "rating": null, "comment": "Would buy again", "review_ts": "2023-11-27T00:00:00"}
+{"review_id": "R00930", "product_id": "P0034", "customer_id": "C0386", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-12-28T00:00:00"}
+{"review_id": "R00931", "product_id": "P0114", "customer_id": "C0502", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-01-12T00:00:00"}
+{"review_id": "R00932", "product_id": "P0103", "customer_id": "C0411", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-08-08T00:00:00"}
+{"review_id": "R00933", "product_id": "P0013", "customer_id": "C0351", "rating": 1, "comment": "Not as expected", "review_ts": "2024-06-13T00:00:00"}
+{"review_id": "R00934", "product_id": "P0022", "customer_id": "C0399", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-09-24T00:00:00"}
+{"review_id": "R00935", "product_id": "P0150", "customer_id": "C0421", "rating": 2, "comment": "Great!", "review_ts": "2024-04-16T00:00:00"}
+{"review_id": "R00936", "product_id": "P0063", "customer_id": "C0196", "rating": 2, "comment": "Would buy again", "review_ts": "2023-12-27T00:00:00"}
+{"review_id": "R00937", "product_id": "P0102", "customer_id": "C0536", "rating": null, "comment": "Not as expected", "review_ts": "2024-02-08T00:00:00"}
+{"review_id": "R00938", "product_id": "P0147", "customer_id": "C0326", "rating": 4, "comment": "Great!", "review_ts": "2024-10-09T00:00:00"}
+{"review_id": "R00939", "product_id": "P0016", "customer_id": "C0115", "rating": 3, "comment": "", "review_ts": "2023-02-04T00:00:00"}
+{"review_id": "R00940", "product_id": "P0063", "customer_id": "C0264", "rating": 2, "comment": "Great!", "review_ts": "2024-03-14T00:00:00"}
+{"review_id": "R00941", "product_id": "P0040", "customer_id": "C0593", "rating": 2, "comment": "Not as expected", "review_ts": "2023-11-26T00:00:00"}
+{"review_id": "R00942", "product_id": "P0104", "customer_id": "C0183", "rating": 1, "comment": "Not as expected", "review_ts": "2023-09-26T00:00:00"}
+{"review_id": "R00943", "product_id": "P0050", "customer_id": "C0235", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-04-01T00:00:00"}
+{"review_id": "R00944", "product_id": "P0045", "customer_id": "C0017", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-11-14T00:00:00"}
+{"review_id": "R00945", "product_id": "P0033", "customer_id": "C0069", "rating": 2, "comment": "", "review_ts": "2024-07-01T00:00:00"}
+{"review_id": "R00946", "product_id": "P0109", "customer_id": "C0003", "rating": 4, "comment": "Would buy again", "review_ts": "2023-07-11T00:00:00"}
+{"review_id": "R00947", "product_id": "P0136", "customer_id": "C0595", "rating": 4, "comment": "Not as expected", "review_ts": "2024-11-13T00:00:00"}
+{"review_id": "R00948", "product_id": "P0131", "customer_id": "C0434", "rating": 1, "comment": "Not as expected", "review_ts": "2023-09-16T00:00:00"}
+{"review_id": "R00949", "product_id": "P0095", "customer_id": "C0390", "rating": 3, "comment": "", "review_ts": "2023-12-02T00:00:00"}
+{"review_id": "R00950", "product_id": "P0060", "customer_id": "C0120", "rating": null, "comment": "Great!", "review_ts": "2024-04-26T00:00:00"}
+{"review_id": "R00951", "product_id": "P0102", "customer_id": "C0567", "rating": null, "comment": "Great!", "review_ts": "2024-05-04T00:00:00"}
+{"review_id": "R00952", "product_id": "P0008", "customer_id": "C0016", "rating": null, "comment": "Would buy again", "review_ts": "2024-01-30T00:00:00"}
+{"review_id": "R00953", "product_id": "P0011", "customer_id": "C0534", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-04-21T00:00:00"}
+{"review_id": "R00954", "product_id": "P0079", "customer_id": "C0258", "rating": 2, "comment": "", "review_ts": "2023-11-27T00:00:00"}
+{"review_id": "R00955", "product_id": "P0058", "customer_id": "C0272", "rating": 3, "comment": "", "review_ts": "2024-05-19T00:00:00"}
+{"review_id": "R00956", "product_id": "P0019", "customer_id": "C0394", "rating": null, "comment": "", "review_ts": "2023-04-26T00:00:00"}
+{"review_id": "R00957", "product_id": "P0093", "customer_id": "C0412", "rating": 2, "comment": "Not as expected", "review_ts": "2024-02-03T00:00:00"}
+{"review_id": "R00958", "product_id": "P0005", "customer_id": "C0395", "rating": null, "comment": "Great!", "review_ts": "2023-01-18T00:00:00"}
+{"review_id": "R00959", "product_id": "P0021", "customer_id": "C0238", "rating": null, "comment": "Not as expected", "review_ts": "2023-08-07T00:00:00"}
+{"review_id": "R00960", "product_id": "P0018", "customer_id": "C0179", "rating": 2, "comment": "Great!", "review_ts": "2023-08-22T00:00:00"}
+{"review_id": "R00961", "product_id": "P0103", "customer_id": "C0481", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-05-30T00:00:00"}
+{"review_id": "R00962", "product_id": "P0073", "customer_id": "C0427", "rating": 2, "comment": "Great!", "review_ts": "2024-07-09T00:00:00"}
+{"review_id": "R00963", "product_id": "P0023", "customer_id": "C0398", "rating": 5, "comment": "Great!", "review_ts": "2023-07-22T00:00:00"}
+{"review_id": "R00964", "product_id": "P0088", "customer_id": "C0030", "rating": 2, "comment": "", "review_ts": "2023-10-06T00:00:00"}
+{"review_id": "R00965", "product_id": "P0033", "customer_id": "C0044", "rating": 4, "comment": "Not as expected", "review_ts": "2024-06-03T00:00:00"}
+{"review_id": "R00966", "product_id": "P0088", "customer_id": "C0511", "rating": null, "comment": "Great!", "review_ts": "2023-10-09T00:00:00"}
+{"review_id": "R00967", "product_id": "P0035", "customer_id": "C0286", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-04-13T00:00:00"}
+{"review_id": "R00968", "product_id": "P0020", "customer_id": "C0418", "rating": 5, "comment": "", "review_ts": "2024-07-25T00:00:00"}
+{"review_id": "R00969", "product_id": "P0058", "customer_id": "C0567", "rating": 2, "comment": "Great!", "review_ts": "2023-03-08T00:00:00"}
+{"review_id": "R00970", "product_id": "P0080", "customer_id": "C0242", "rating": null, "comment": "Broken on arrival", "review_ts": "2024-05-22T00:00:00"}
+{"review_id": "R00971", "product_id": "P0141", "customer_id": "C0339", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-08-28T00:00:00"}
+{"review_id": "R00972", "product_id": "P0050", "customer_id": "C0258", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-05-09T00:00:00"}
+{"review_id": "R00973", "product_id": "P0110", "customer_id": "C0388", "rating": 5, "comment": "Not as expected", "review_ts": "2024-09-22T00:00:00"}
+{"review_id": "R00974", "product_id": "P0054", "customer_id": "C0054", "rating": 1, "comment": "", "review_ts": "2024-05-14T00:00:00"}
+{"review_id": "R00975", "product_id": "P0054", "customer_id": "C0457", "rating": 1, "comment": "Not as expected", "review_ts": "2024-06-01T00:00:00"}
+{"review_id": "R00976", "product_id": "P0116", "customer_id": "C0478", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-10-03T00:00:00"}
+{"review_id": "R00977", "product_id": "P0060", "customer_id": "C0491", "rating": null, "comment": "Fast shipping", "review_ts": "2023-01-18T00:00:00"}
+{"review_id": "R00978", "product_id": "P0135", "customer_id": "C0502", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-11-19T00:00:00"}
+{"review_id": "R00979", "product_id": "P0116", "customer_id": "C0032", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-12-12T00:00:00"}
+{"review_id": "R00980", "product_id": "P0090", "customer_id": "C0249", "rating": 2, "comment": "Would buy again", "review_ts": "2023-09-09T00:00:00"}
+{"review_id": "R00981", "product_id": "P0095", "customer_id": "C0496", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-10-05T00:00:00"}
+{"review_id": "R00982", "product_id": "P0066", "customer_id": "C0171", "rating": 1, "comment": "Great!", "review_ts": "2024-08-18T00:00:00"}
+{"review_id": "R00983", "product_id": "P0069", "customer_id": "C0230", "rating": 5, "comment": "Great!", "review_ts": "2023-12-23T00:00:00"}
+{"review_id": "R00984", "product_id": "P0073", "customer_id": "C0441", "rating": 5, "comment": "", "review_ts": "2023-09-28T00:00:00"}
+{"review_id": "R00985", "product_id": "P0131", "customer_id": "C0573", "rating": 5, "comment": "Not as expected", "review_ts": "2023-01-07T00:00:00"}
+{"review_id": "R00986", "product_id": "P0031", "customer_id": "C0505", "rating": 4, "comment": "Great!", "review_ts": "2024-07-02T00:00:00"}
+{"review_id": "R00987", "product_id": "P0008", "customer_id": "C0453", "rating": 3, "comment": "", "review_ts": "2023-08-14T00:00:00"}
+{"review_id": "R00988", "product_id": "P0147", "customer_id": "C0226", "rating": null, "comment": "", "review_ts": "2024-08-27T00:00:00"}
+{"review_id": "R00989", "product_id": "P0142", "customer_id": "C0353", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-03-09T00:00:00"}
+{"review_id": "R00990", "product_id": "P0003", "customer_id": "C0030", "rating": null, "comment": "Fast shipping", "review_ts": "2023-07-05T00:00:00"}
+{"review_id": "R00991", "product_id": "P0123", "customer_id": "C0040", "rating": 5, "comment": "Would buy again", "review_ts": "2023-09-03T00:00:00"}
+{"review_id": "R00992", "product_id": "P0106", "customer_id": "C0328", "rating": 3, "comment": "", "review_ts": "2024-06-22T00:00:00"}
+{"review_id": "R00993", "product_id": "P0150", "customer_id": "C0294", "rating": null, "comment": "Not as expected", "review_ts": "2024-11-29T00:00:00"}
+{"review_id": "R00994", "product_id": "P0056", "customer_id": "C0498", "rating": null, "comment": "Great!", "review_ts": "2024-01-11T00:00:00"}
+{"review_id": "R00995", "product_id": "P0056", "customer_id": "C0398", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-03-30T00:00:00"}
+{"review_id": "R00996", "product_id": "P0021", "customer_id": "C0378", "rating": 4, "comment": "Would buy again", "review_ts": "2023-02-11T00:00:00"}
+{"review_id": "R00997", "product_id": "P0066", "customer_id": "C0430", "rating": null, "comment": "", "review_ts": "2024-07-21T00:00:00"}
+{"review_id": "R00998", "product_id": "P0016", "customer_id": "C0337", "rating": null, "comment": "", "review_ts": "2023-11-14T00:00:00"}
+{"review_id": "R00999", "product_id": "P0065", "customer_id": "C0341", "rating": 2, "comment": "Would buy again", "review_ts": "2023-06-25T00:00:00"}
+{"review_id": "R01000", "product_id": "P0095", "customer_id": "C0499", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-08-17T00:00:00"}
+{"review_id": "R01001", "product_id": "P0028", "customer_id": "C0281", "rating": 5, "comment": "Great!", "review_ts": "2024-07-25T00:00:00"}
+{"review_id": "R01002", "product_id": "P0115", "customer_id": "C0254", "rating": 3, "comment": "Would buy again", "review_ts": "2023-06-27T00:00:00"}
+{"review_id": "R01003", "product_id": "P0025", "customer_id": "C0490", "rating": 5, "comment": "Not as expected", "review_ts": "2023-04-11T00:00:00"}
+{"review_id": "R01004", "product_id": "P0011", "customer_id": "C0339", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-02-03T00:00:00"}
+{"review_id": "R01005", "product_id": "P0134", "customer_id": "C0389", "rating": 5, "comment": "", "review_ts": "2023-09-21T00:00:00"}
+{"review_id": "R01006", "product_id": "P0098", "customer_id": "C0066", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-03-26T00:00:00"}
+{"review_id": "R01007", "product_id": "P0099", "customer_id": "C0315", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-03-06T00:00:00"}
+{"review_id": "R01008", "product_id": "P0067", "customer_id": "C0104", "rating": null, "comment": "Broken on arrival", "review_ts": "2024-07-18T00:00:00"}
+{"review_id": "R01009", "product_id": "P0116", "customer_id": "C0306", "rating": null, "comment": "", "review_ts": "2023-05-02T00:00:00"}
+{"review_id": "R01010", "product_id": "P0008", "customer_id": "C0319", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-07-18T00:00:00"}
+{"review_id": "R01011", "product_id": "P0034", "customer_id": "C0399", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-03-09T00:00:00"}
+{"review_id": "R01012", "product_id": "P0056", "customer_id": "C0033", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-11-30T00:00:00"}
+{"review_id": "R01013", "product_id": "P0127", "customer_id": "C0527", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-12-12T00:00:00"}
+{"review_id": "R01014", "product_id": "P0060", "customer_id": "C0328", "rating": 4, "comment": "Would buy again", "review_ts": "2024-01-28T00:00:00"}
+{"review_id": "R01015", "product_id": "P0108", "customer_id": "C0382", "rating": 4, "comment": "Not as expected", "review_ts": "2024-03-12T00:00:00"}
+{"review_id": "R01016", "product_id": "P0008", "customer_id": "C0217", "rating": 2, "comment": "Great!", "review_ts": "2023-04-24T00:00:00"}
+{"review_id": "R01017", "product_id": "P0043", "customer_id": "C0271", "rating": 3, "comment": "Would buy again", "review_ts": "2024-03-15T00:00:00"}
+{"review_id": "R01018", "product_id": "P0022", "customer_id": "C0350", "rating": 3, "comment": "Broken on arrival", "review_ts": "2024-09-17T00:00:00"}
+{"review_id": "R01019", "product_id": "P0148", "customer_id": "C0491", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-04-14T00:00:00"}
+{"review_id": "R01020", "product_id": "P0140", "customer_id": "C0341", "rating": 1, "comment": "Would buy again", "review_ts": "2024-08-31T00:00:00"}
+{"review_id": "R01021", "product_id": "P0106", "customer_id": "C0497", "rating": 2, "comment": "", "review_ts": "2023-06-12T00:00:00"}
+{"review_id": "R01022", "product_id": "P0124", "customer_id": "C0407", "rating": 2, "comment": "Would buy again", "review_ts": "2024-08-25T00:00:00"}
+{"review_id": "R01023", "product_id": "P0015", "customer_id": "C0495", "rating": 2, "comment": "Not as expected", "review_ts": "2024-05-11T00:00:00"}
+{"review_id": "R01024", "product_id": "P0029", "customer_id": "C0029", "rating": 3, "comment": "Would buy again", "review_ts": "2024-03-04T00:00:00"}
+{"review_id": "R01025", "product_id": "P0003", "customer_id": "C0163", "rating": 2, "comment": "Not as expected", "review_ts": "2024-09-13T00:00:00"}
+{"review_id": "R01026", "product_id": "P0131", "customer_id": "C0021", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-09-09T00:00:00"}
+{"review_id": "R01027", "product_id": "P0039", "customer_id": "C0475", "rating": 2, "comment": "Not as expected", "review_ts": "2023-10-07T00:00:00"}
+{"review_id": "R01028", "product_id": "P0049", "customer_id": "C0474", "rating": 3, "comment": "Would buy again", "review_ts": "2023-04-11T00:00:00"}
+{"review_id": "R01029", "product_id": "P0027", "customer_id": "C0413", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-08-10T00:00:00"}
+{"review_id": "R01030", "product_id": "P0100", "customer_id": "C0598", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-03-08T00:00:00"}
+{"review_id": "R01031", "product_id": "P0129", "customer_id": "C0360", "rating": 1, "comment": "Great!", "review_ts": "2023-10-02T00:00:00"}
+{"review_id": "R01032", "product_id": "P0114", "customer_id": "C0428", "rating": 4, "comment": "Great!", "review_ts": "2024-01-29T00:00:00"}
+{"review_id": "R01033", "product_id": "P0052", "customer_id": "C0117", "rating": null, "comment": "Fast shipping", "review_ts": "2024-09-22T00:00:00"}
+{"review_id": "R01034", "product_id": "P0051", "customer_id": "C0508", "rating": 1, "comment": "Would buy again", "review_ts": "2024-02-16T00:00:00"}
+{"review_id": "R01035", "product_id": "P0037", "customer_id": "C0450", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-04-24T00:00:00"}
+{"review_id": "R01036", "product_id": "P0024", "customer_id": "C0502", "rating": null, "comment": "Would buy again", "review_ts": "2023-03-09T00:00:00"}
+{"review_id": "R01037", "product_id": "P0145", "customer_id": "C0163", "rating": 5, "comment": "Not as expected", "review_ts": "2023-10-15T00:00:00"}
+{"review_id": "R01038", "product_id": "P0069", "customer_id": "C0037", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-10-18T00:00:00"}
+{"review_id": "R01039", "product_id": "P0012", "customer_id": "C0497", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-11-08T00:00:00"}
+{"review_id": "R01040", "product_id": "P0143", "customer_id": "C0527", "rating": null, "comment": "Would buy again", "review_ts": "2024-04-20T00:00:00"}
+{"review_id": "R01041", "product_id": "P0073", "customer_id": "C0210", "rating": 3, "comment": "", "review_ts": "2023-11-09T00:00:00"}
+{"review_id": "R01042", "product_id": "P0016", "customer_id": "C0493", "rating": 3, "comment": "Would buy again", "review_ts": "2023-10-25T00:00:00"}
+{"review_id": "R01043", "product_id": "P0041", "customer_id": "C0002", "rating": 3, "comment": "Would buy again", "review_ts": "2024-01-07T00:00:00"}
+{"review_id": "R01044", "product_id": "P0065", "customer_id": "C0600", "rating": 2, "comment": "Would buy again", "review_ts": "2024-05-22T00:00:00"}
+{"review_id": "R01045", "product_id": "P0100", "customer_id": "C0453", "rating": null, "comment": "Fast shipping", "review_ts": "2024-03-19T00:00:00"}
+{"review_id": "R01046", "product_id": "P0116", "customer_id": "C0309", "rating": 2, "comment": "Would buy again", "review_ts": "2024-02-24T00:00:00"}
+{"review_id": "R01047", "product_id": "P0105", "customer_id": "C0544", "rating": 5, "comment": "Great!", "review_ts": "2023-11-16T00:00:00"}
+{"review_id": "R01048", "product_id": "P0088", "customer_id": "C0210", "rating": 5, "comment": "Not as expected", "review_ts": "2024-11-19T00:00:00"}
+{"review_id": "R01049", "product_id": "P0079", "customer_id": "C0088", "rating": 2, "comment": "", "review_ts": "2023-07-27T00:00:00"}
+{"review_id": "R01050", "product_id": "P0126", "customer_id": "C0203", "rating": 2, "comment": "Not as expected", "review_ts": "2024-02-09T00:00:00"}
+{"review_id": "R01051", "product_id": "P0078", "customer_id": "C0052", "rating": 5, "comment": "Great!", "review_ts": "2024-09-07T00:00:00"}
+{"review_id": "R01052", "product_id": "P0077", "customer_id": "C0304", "rating": 3, "comment": "Would buy again", "review_ts": "2024-08-07T00:00:00"}
+{"review_id": "R01053", "product_id": "P0016", "customer_id": "C0145", "rating": 1, "comment": "Would buy again", "review_ts": "2023-10-31T00:00:00"}
+{"review_id": "R01054", "product_id": "P0036", "customer_id": "C0453", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-09-16T00:00:00"}
+{"review_id": "R01055", "product_id": "P0149", "customer_id": "C0109", "rating": 5, "comment": "Not as expected", "review_ts": "2023-04-06T00:00:00"}
+{"review_id": "R01056", "product_id": "P0081", "customer_id": "C0461", "rating": null, "comment": "Would buy again", "review_ts": "2024-03-14T00:00:00"}
+{"review_id": "R01057", "product_id": "P0066", "customer_id": "C0270", "rating": null, "comment": "Would buy again", "review_ts": "2023-06-17T00:00:00"}
+{"review_id": "R01058", "product_id": "P0145", "customer_id": "C0419", "rating": 1, "comment": "Not as expected", "review_ts": "2023-01-13T00:00:00"}
+{"review_id": "R01059", "product_id": "P0081", "customer_id": "C0147", "rating": null, "comment": "Would buy again", "review_ts": "2024-04-03T00:00:00"}
+{"review_id": "R01060", "product_id": "P0008", "customer_id": "C0036", "rating": 1, "comment": "Would buy again", "review_ts": "2023-02-18T00:00:00"}
+{"review_id": "R01061", "product_id": "P0097", "customer_id": "C0157", "rating": 3, "comment": "Broken on arrival", "review_ts": "2024-01-17T00:00:00"}
+{"review_id": "R01062", "product_id": "P0039", "customer_id": "C0066", "rating": null, "comment": "", "review_ts": "2023-05-10T00:00:00"}
+{"review_id": "R01063", "product_id": "P0039", "customer_id": "C0345", "rating": 4, "comment": "Not as expected", "review_ts": "2023-09-16T00:00:00"}
+{"review_id": "R01064", "product_id": "P0075", "customer_id": "C0217", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-06-06T00:00:00"}
+{"review_id": "R01065", "product_id": "P0040", "customer_id": "C0038", "rating": 4, "comment": "Broken on arrival", "review_ts": "2023-12-25T00:00:00"}
+{"review_id": "R01066", "product_id": "P0067", "customer_id": "C0358", "rating": 4, "comment": "", "review_ts": "2024-10-14T00:00:00"}
+{"review_id": "R01067", "product_id": "P0108", "customer_id": "C0480", "rating": 1, "comment": "Not as expected", "review_ts": "2024-03-26T00:00:00"}
+{"review_id": "R01068", "product_id": "P0013", "customer_id": "C0426", "rating": 1, "comment": "Great!", "review_ts": "2023-02-22T00:00:00"}
+{"review_id": "R01069", "product_id": "P0145", "customer_id": "C0366", "rating": null, "comment": "Fast shipping", "review_ts": "2024-05-10T00:00:00"}
+{"review_id": "R01070", "product_id": "P0091", "customer_id": "C0230", "rating": 5, "comment": "Would buy again", "review_ts": "2023-05-13T00:00:00"}
+{"review_id": "R01071", "product_id": "P0088", "customer_id": "C0438", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-07-30T00:00:00"}
+{"review_id": "R01072", "product_id": "P0118", "customer_id": "C0094", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-10-24T00:00:00"}
+{"review_id": "R01073", "product_id": "P0019", "customer_id": "C0541", "rating": 3, "comment": "", "review_ts": "2024-10-19T00:00:00"}
+{"review_id": "R01074", "product_id": "P0104", "customer_id": "C0107", "rating": null, "comment": "Great!", "review_ts": "2024-04-28T00:00:00"}
+{"review_id": "R01075", "product_id": "P0140", "customer_id": "C0081", "rating": 5, "comment": "Would buy again", "review_ts": "2024-05-14T00:00:00"}
+{"review_id": "R01076", "product_id": "P0085", "customer_id": "C0489", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-07-17T00:00:00"}
+{"review_id": "R01077", "product_id": "P0031", "customer_id": "C0513", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-05-23T00:00:00"}
+{"review_id": "R01078", "product_id": "P0061", "customer_id": "C0585", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-06-14T00:00:00"}
+{"review_id": "R01079", "product_id": "P0069", "customer_id": "C0057", "rating": 5, "comment": "", "review_ts": "2024-04-19T00:00:00"}
+{"review_id": "R01080", "product_id": "P0018", "customer_id": "C0558", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-03-22T00:00:00"}
+{"review_id": "R01081", "product_id": "P0089", "customer_id": "C0390", "rating": 2, "comment": "Great!", "review_ts": "2023-01-10T00:00:00"}
+{"review_id": "R01082", "product_id": "P0013", "customer_id": "C0020", "rating": 3, "comment": "Broken on arrival", "review_ts": "2023-03-13T00:00:00"}
+{"review_id": "R01083", "product_id": "P0147", "customer_id": "C0286", "rating": 1, "comment": "Broken on arrival", "review_ts": "2024-11-02T00:00:00"}
+{"review_id": "R01084", "product_id": "P0085", "customer_id": "C0419", "rating": 5, "comment": "Fast shipping", "review_ts": "2024-08-28T00:00:00"}
+{"review_id": "R01085", "product_id": "P0010", "customer_id": "C0055", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-01-05T00:00:00"}
+{"review_id": "R01086", "product_id": "P0139", "customer_id": "C0404", "rating": 1, "comment": "Fast shipping", "review_ts": "2024-03-09T00:00:00"}
+{"review_id": "R01087", "product_id": "P0053", "customer_id": "C0572", "rating": 1, "comment": "Great!", "review_ts": "2023-05-26T00:00:00"}
+{"review_id": "R01088", "product_id": "P0118", "customer_id": "C0288", "rating": 2, "comment": "Not as expected", "review_ts": "2024-04-27T00:00:00"}
+{"review_id": "R01089", "product_id": "P0130", "customer_id": "C0193", "rating": 4, "comment": "", "review_ts": "2024-03-09T00:00:00"}
+{"review_id": "R01090", "product_id": "P0036", "customer_id": "C0233", "rating": 1, "comment": "", "review_ts": "2023-10-09T00:00:00"}
+{"review_id": "R01091", "product_id": "P0121", "customer_id": "C0005", "rating": 1, "comment": "Not as expected", "review_ts": "2024-02-08T00:00:00"}
+{"review_id": "R01092", "product_id": "P0005", "customer_id": "C0362", "rating": 4, "comment": "", "review_ts": "2023-06-10T00:00:00"}
+{"review_id": "R01093", "product_id": "P0033", "customer_id": "C0391", "rating": 4, "comment": "Would buy again", "review_ts": "2023-06-16T00:00:00"}
+{"review_id": "R01094", "product_id": "P0060", "customer_id": "C0379", "rating": 2, "comment": "Great!", "review_ts": "2023-04-07T00:00:00"}
+{"review_id": "R01095", "product_id": "P0060", "customer_id": "C0284", "rating": 2, "comment": "Great!", "review_ts": "2023-09-15T00:00:00"}
+{"review_id": "R01096", "product_id": "P0131", "customer_id": "C0484", "rating": 4, "comment": "Not as expected", "review_ts": "2023-02-01T00:00:00"}
+{"review_id": "R01097", "product_id": "P0038", "customer_id": "C0575", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-05-15T00:00:00"}
+{"review_id": "R01098", "product_id": "P0129", "customer_id": "C0110", "rating": 1, "comment": "Would buy again", "review_ts": "2023-01-19T00:00:00"}
+{"review_id": "R01099", "product_id": "P0052", "customer_id": "C0120", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-06-17T00:00:00"}
+{"review_id": "R01100", "product_id": "P0140", "customer_id": "C0322", "rating": 2, "comment": "Fast shipping", "review_ts": "2024-08-27T00:00:00"}
+{"review_id": "R01101", "product_id": "P0018", "customer_id": "C0191", "rating": null, "comment": "Fast shipping", "review_ts": "2024-05-31T00:00:00"}
+{"review_id": "R01102", "product_id": "P0048", "customer_id": "C0415", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-10-16T00:00:00"}
+{"review_id": "R01103", "product_id": "P0115", "customer_id": "C0509", "rating": 5, "comment": "", "review_ts": "2024-06-26T00:00:00"}
+{"review_id": "R01104", "product_id": "P0037", "customer_id": "C0292", "rating": 3, "comment": "", "review_ts": "2024-09-26T00:00:00"}
+{"review_id": "R01105", "product_id": "P0032", "customer_id": "C0591", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-06-30T00:00:00"}
+{"review_id": "R01106", "product_id": "P0029", "customer_id": "C0214", "rating": 2, "comment": "Would buy again", "review_ts": "2023-05-04T00:00:00"}
+{"review_id": "R01107", "product_id": "P0126", "customer_id": "C0148", "rating": 2, "comment": "Not as expected", "review_ts": "2024-07-20T00:00:00"}
+{"review_id": "R01108", "product_id": "P0133", "customer_id": "C0157", "rating": null, "comment": "Not as expected", "review_ts": "2024-09-25T00:00:00"}
+{"review_id": "R01109", "product_id": "P0047", "customer_id": "C0443", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-04-05T00:00:00"}
+{"review_id": "R01110", "product_id": "P0053", "customer_id": "C0514", "rating": 4, "comment": "Great!", "review_ts": "2024-01-17T00:00:00"}
+{"review_id": "R01111", "product_id": "P0082", "customer_id": "C0280", "rating": 3, "comment": "Great!", "review_ts": "2023-12-10T00:00:00"}
+{"review_id": "R01112", "product_id": "P0077", "customer_id": "C0470", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-07-16T00:00:00"}
+{"review_id": "R01113", "product_id": "P0047", "customer_id": "C0290", "rating": 1, "comment": "Not as expected", "review_ts": "2024-03-07T00:00:00"}
+{"review_id": "R01114", "product_id": "P0011", "customer_id": "C0462", "rating": 1, "comment": "Not as expected", "review_ts": "2024-10-18T00:00:00"}
+{"review_id": "R01115", "product_id": "P0077", "customer_id": "C0566", "rating": 5, "comment": "Great!", "review_ts": "2023-10-12T00:00:00"}
+{"review_id": "R01116", "product_id": "P0027", "customer_id": "C0013", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-04-11T00:00:00"}
+{"review_id": "R01117", "product_id": "P0121", "customer_id": "C0536", "rating": 4, "comment": "Would buy again", "review_ts": "2024-08-01T00:00:00"}
+{"review_id": "R01118", "product_id": "P0108", "customer_id": "C0480", "rating": 3, "comment": "", "review_ts": "2023-07-28T00:00:00"}
+{"review_id": "R01119", "product_id": "P0098", "customer_id": "C0011", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-11-17T00:00:00"}
+{"review_id": "R01120", "product_id": "P0078", "customer_id": "C0335", "rating": 4, "comment": "Would buy again", "review_ts": "2023-10-16T00:00:00"}
+{"review_id": "R01121", "product_id": "P0036", "customer_id": "C0481", "rating": 3, "comment": "Not as expected", "review_ts": "2024-04-22T00:00:00"}
+{"review_id": "R01122", "product_id": "P0055", "customer_id": "C0440", "rating": 2, "comment": "Not as expected", "review_ts": "2024-02-11T00:00:00"}
+{"review_id": "R01123", "product_id": "P0148", "customer_id": "C0338", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-05-31T00:00:00"}
+{"review_id": "R01124", "product_id": "P0066", "customer_id": "C0306", "rating": 3, "comment": "Would buy again", "review_ts": "2024-05-02T00:00:00"}
+{"review_id": "R01125", "product_id": "P0031", "customer_id": "C0163", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-08-28T00:00:00"}
+{"review_id": "R01126", "product_id": "P0081", "customer_id": "C0073", "rating": 3, "comment": "", "review_ts": "2024-10-14T00:00:00"}
+{"review_id": "R01127", "product_id": "P0062", "customer_id": "C0404", "rating": 5, "comment": "Not as expected", "review_ts": "2023-02-17T00:00:00"}
+{"review_id": "R01128", "product_id": "P0016", "customer_id": "C0563", "rating": 1, "comment": "Not as expected", "review_ts": "2023-12-21T00:00:00"}
+{"review_id": "R01129", "product_id": "P0131", "customer_id": "C0365", "rating": 2, "comment": "Fast shipping", "review_ts": "2023-02-22T00:00:00"}
+{"review_id": "R01130", "product_id": "P0035", "customer_id": "C0584", "rating": 4, "comment": "Great!", "review_ts": "2024-06-04T00:00:00"}
+{"review_id": "R01131", "product_id": "P0148", "customer_id": "C0347", "rating": 2, "comment": "Would buy again", "review_ts": "2024-09-15T00:00:00"}
+{"review_id": "R01132", "product_id": "P0121", "customer_id": "C0023", "rating": 4, "comment": "", "review_ts": "2023-09-24T00:00:00"}
+{"review_id": "R01133", "product_id": "P0009", "customer_id": "C0077", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-10-03T00:00:00"}
+{"review_id": "R01134", "product_id": "P0142", "customer_id": "C0558", "rating": 4, "comment": "Broken on arrival", "review_ts": "2024-07-24T00:00:00"}
+{"review_id": "R01135", "product_id": "P0034", "customer_id": "C0415", "rating": 2, "comment": "Broken on arrival", "review_ts": "2024-01-25T00:00:00"}
+{"review_id": "R01136", "product_id": "P0033", "customer_id": "C0258", "rating": 4, "comment": "Great!", "review_ts": "2023-01-07T00:00:00"}
+{"review_id": "R01137", "product_id": "P0085", "customer_id": "C0556", "rating": null, "comment": "Would buy again", "review_ts": "2024-10-23T00:00:00"}
+{"review_id": "R01138", "product_id": "P0063", "customer_id": "C0112", "rating": 5, "comment": "Great!", "review_ts": "2023-10-29T00:00:00"}
+{"review_id": "R01139", "product_id": "P0077", "customer_id": "C0469", "rating": 5, "comment": "Fast shipping", "review_ts": "2023-01-27T00:00:00"}
+{"review_id": "R01140", "product_id": "P0084", "customer_id": "C0038", "rating": null, "comment": "", "review_ts": "2023-12-02T00:00:00"}
+{"review_id": "R01141", "product_id": "P0027", "customer_id": "C0326", "rating": 5, "comment": "Fast shipping", "review_ts": "2024-09-11T00:00:00"}
+{"review_id": "R01142", "product_id": "P0004", "customer_id": "C0396", "rating": 1, "comment": "Not as expected", "review_ts": "2023-12-05T00:00:00"}
+{"review_id": "R01143", "product_id": "P0108", "customer_id": "C0161", "rating": 4, "comment": "Great!", "review_ts": "2024-01-30T00:00:00"}
+{"review_id": "R01144", "product_id": "P0020", "customer_id": "C0019", "rating": null, "comment": "Fast shipping", "review_ts": "2023-02-10T00:00:00"}
+{"review_id": "R01145", "product_id": "P0015", "customer_id": "C0582", "rating": 1, "comment": "Broken on arrival", "review_ts": "2023-04-18T00:00:00"}
+{"review_id": "R01146", "product_id": "P0094", "customer_id": "C0240", "rating": 4, "comment": "Not as expected", "review_ts": "2024-07-23T00:00:00"}
+{"review_id": "R01147", "product_id": "P0025", "customer_id": "C0447", "rating": 4, "comment": "", "review_ts": "2023-09-26T00:00:00"}
+{"review_id": "R01148", "product_id": "P0002", "customer_id": "C0542", "rating": 5, "comment": "Would buy again", "review_ts": "2024-06-21T00:00:00"}
+{"review_id": "R01149", "product_id": "P0080", "customer_id": "C0458", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-01-08T00:00:00"}
+{"review_id": "R01150", "product_id": "P0055", "customer_id": "C0075", "rating": null, "comment": "", "review_ts": "2023-05-01T00:00:00"}
+{"review_id": "R01151", "product_id": "P0093", "customer_id": "C0285", "rating": 3, "comment": "", "review_ts": "2023-03-07T00:00:00"}
+{"review_id": "R01152", "product_id": "P0108", "customer_id": "C0293", "rating": 2, "comment": "", "review_ts": "2023-09-07T00:00:00"}
+{"review_id": "R01153", "product_id": "P0136", "customer_id": "C0130", "rating": 5, "comment": "Would buy again", "review_ts": "2023-08-29T00:00:00"}
+{"review_id": "R01154", "product_id": "P0099", "customer_id": "C0447", "rating": 1, "comment": "Great!", "review_ts": "2024-08-30T00:00:00"}
+{"review_id": "R01155", "product_id": "P0117", "customer_id": "C0248", "rating": 1, "comment": "Would buy again", "review_ts": "2024-07-15T00:00:00"}
+{"review_id": "R01156", "product_id": "P0107", "customer_id": "C0536", "rating": 2, "comment": "Would buy again", "review_ts": "2024-05-17T00:00:00"}
+{"review_id": "R01157", "product_id": "P0091", "customer_id": "C0474", "rating": 1, "comment": "Would buy again", "review_ts": "2024-11-21T00:00:00"}
+{"review_id": "R01158", "product_id": "P0139", "customer_id": "C0531", "rating": 4, "comment": "Not as expected", "review_ts": "2024-10-11T00:00:00"}
+{"review_id": "R01159", "product_id": "P0050", "customer_id": "C0052", "rating": null, "comment": "Broken on arrival", "review_ts": "2023-12-16T00:00:00"}
+{"review_id": "R01160", "product_id": "P0089", "customer_id": "C0458", "rating": 5, "comment": "Broken on arrival", "review_ts": "2024-10-27T00:00:00"}
+{"review_id": "R01161", "product_id": "P0025", "customer_id": "C0370", "rating": 3, "comment": "Would buy again", "review_ts": "2023-09-16T00:00:00"}
+{"review_id": "R01162", "product_id": "P0026", "customer_id": "C0196", "rating": 1, "comment": "Great!", "review_ts": "2024-09-26T00:00:00"}
+{"review_id": "R01163", "product_id": "P0053", "customer_id": "C0160", "rating": 2, "comment": "Great!", "review_ts": "2024-02-22T00:00:00"}
+{"review_id": "R01164", "product_id": "P0075", "customer_id": "C0390", "rating": 2, "comment": "Great!", "review_ts": "2024-03-06T00:00:00"}
+{"review_id": "R01165", "product_id": "P0110", "customer_id": "C0472", "rating": 2, "comment": "Would buy again", "review_ts": "2024-05-28T00:00:00"}
+{"review_id": "R01166", "product_id": "P0062", "customer_id": "C0404", "rating": 1, "comment": "Would buy again", "review_ts": "2024-10-04T00:00:00"}
+{"review_id": "R01167", "product_id": "P0079", "customer_id": "C0083", "rating": null, "comment": "Great!", "review_ts": "2023-07-05T00:00:00"}
+{"review_id": "R01168", "product_id": "P0129", "customer_id": "C0176", "rating": 5, "comment": "Broken on arrival", "review_ts": "2023-07-26T00:00:00"}
+{"review_id": "R01169", "product_id": "P0131", "customer_id": "C0005", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-11-16T00:00:00"}
+{"review_id": "R01170", "product_id": "P0040", "customer_id": "C0543", "rating": 1, "comment": "Not as expected", "review_ts": "2023-03-18T00:00:00"}
+{"review_id": "R01171", "product_id": "P0089", "customer_id": "C0107", "rating": null, "comment": "Not as expected", "review_ts": "2023-06-23T00:00:00"}
+{"review_id": "R01172", "product_id": "P0111", "customer_id": "C0308", "rating": null, "comment": "Would buy again", "review_ts": "2023-03-29T00:00:00"}
+{"review_id": "R01173", "product_id": "P0114", "customer_id": "C0448", "rating": 2, "comment": "Would buy again", "review_ts": "2024-10-22T00:00:00"}
+{"review_id": "R01174", "product_id": "P0048", "customer_id": "C0338", "rating": 4, "comment": "Would buy again", "review_ts": "2023-07-21T00:00:00"}
+{"review_id": "R01175", "product_id": "P0109", "customer_id": "C0230", "rating": 4, "comment": "Would buy again", "review_ts": "2023-04-20T00:00:00"}
+{"review_id": "R01176", "product_id": "P0033", "customer_id": "C0219", "rating": 1, "comment": "Fast shipping", "review_ts": "2023-08-14T00:00:00"}
+{"review_id": "R01177", "product_id": "P0039", "customer_id": "C0320", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-02-19T00:00:00"}
+{"review_id": "R01178", "product_id": "P0011", "customer_id": "C0069", "rating": null, "comment": "Great!", "review_ts": "2024-07-06T00:00:00"}
+{"review_id": "R01179", "product_id": "P0028", "customer_id": "C0184", "rating": 2, "comment": "Great!", "review_ts": "2024-05-06T00:00:00"}
+{"review_id": "R01180", "product_id": "P0055", "customer_id": "C0509", "rating": 5, "comment": "Would buy again", "review_ts": "2024-11-04T00:00:00"}
+{"review_id": "R01181", "product_id": "P0016", "customer_id": "C0077", "rating": null, "comment": "Not as expected", "review_ts": "2023-06-20T00:00:00"}
+{"review_id": "R01182", "product_id": "P0023", "customer_id": "C0135", "rating": 3, "comment": "", "review_ts": "2023-07-23T00:00:00"}
+{"review_id": "R01183", "product_id": "P0107", "customer_id": "C0343", "rating": 2, "comment": "Great!", "review_ts": "2023-03-03T00:00:00"}
+{"review_id": "R01184", "product_id": "P0020", "customer_id": "C0033", "rating": 4, "comment": "", "review_ts": "2023-10-07T00:00:00"}
+{"review_id": "R01185", "product_id": "P0086", "customer_id": "C0177", "rating": 1, "comment": "", "review_ts": "2023-12-23T00:00:00"}
+{"review_id": "R01186", "product_id": "P0014", "customer_id": "C0036", "rating": 5, "comment": "Would buy again", "review_ts": "2023-03-23T00:00:00"}
+{"review_id": "R01187", "product_id": "P0018", "customer_id": "C0591", "rating": null, "comment": "", "review_ts": "2024-04-17T00:00:00"}
+{"review_id": "R01188", "product_id": "P0030", "customer_id": "C0314", "rating": 5, "comment": "Great!", "review_ts": "2024-06-06T00:00:00"}
+{"review_id": "R01189", "product_id": "P0096", "customer_id": "C0123", "rating": 1, "comment": "", "review_ts": "2023-03-06T00:00:00"}
+{"review_id": "R01190", "product_id": "P0083", "customer_id": "C0024", "rating": null, "comment": "", "review_ts": "2023-11-07T00:00:00"}
+{"review_id": "R01191", "product_id": "P0028", "customer_id": "C0164", "rating": 2, "comment": "", "review_ts": "2023-12-18T00:00:00"}
+{"review_id": "R01192", "product_id": "P0016", "customer_id": "C0076", "rating": 1, "comment": "Not as expected", "review_ts": "2024-05-30T00:00:00"}
+{"review_id": "R01193", "product_id": "P0117", "customer_id": "C0324", "rating": 1, "comment": "Would buy again", "review_ts": "2023-07-06T00:00:00"}
+{"review_id": "R01194", "product_id": "P0102", "customer_id": "C0453", "rating": 1, "comment": "Not as expected", "review_ts": "2024-08-02T00:00:00"}
+{"review_id": "R01195", "product_id": "P0015", "customer_id": "C0572", "rating": 4, "comment": "Not as expected", "review_ts": "2024-07-25T00:00:00"}
+{"review_id": "R01196", "product_id": "P0003", "customer_id": "C0425", "rating": 5, "comment": "Would buy again", "review_ts": "2023-04-07T00:00:00"}
+{"review_id": "R01197", "product_id": "P0073", "customer_id": "C0588", "rating": 2, "comment": "Broken on arrival", "review_ts": "2023-04-21T00:00:00"}
+{"review_id": "R01198", "product_id": "P0024", "customer_id": "C0033", "rating": 3, "comment": "Fast shipping", "review_ts": "2023-04-24T00:00:00"}
+{"review_id": "R01199", "product_id": "P0078", "customer_id": "C0122", "rating": 3, "comment": "Broken on arrival", "review_ts": "2024-07-04T00:00:00"}
+{"review_id": "R01200", "product_id": "P0129", "customer_id": "C0121", "rating": 4, "comment": "Fast shipping", "review_ts": "2024-02-24T00:00:00"}
